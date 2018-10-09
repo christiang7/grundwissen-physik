@@ -4,7 +4,7 @@
 Experimente, Übungsaufgaben und Lösungen
 ========================================
 
-.. Anzahl der Aufgaben bzw. Versuche ausgeben:
+.. Anzahl der Aufgaben beziehungsweise  Experimente ausgeben:
 
 .. find ./ -name "*aufgaben*.rst"    | xargs grep -c "^\* "         | awk -F ":" '{sum+=$2} END {print sum}'
 .. find ./ -name "*loesungen*.rst"   | xargs grep -c "^\* "         | awk -F ":" '{sum+=$2} END {print sum}'
@@ -34,8 +34,6 @@ Experimente
     <file:///home/waldgeist/data/homepage/grund-wissen/physik/_build/html/experimente-aufgaben-loesungen.html>`__
     als PDF-Datei heruntergeladen werden.
 
-
-
 ..  Experimente sind in der Physik von besonderer Bedeutung. Mit einem geeigneten
 ..  Versuchsaufbau können Ursache-Wirkungs-Zusammenhänge anschaulich und
 ..  beliebig oft wiederholbar untersucht werden.
@@ -56,15 +54,10 @@ Experimente
 Übungsaufgaben
 --------------
 
-.. .. raw:: html
-
-..     <h2>Aufgaben<a class="headerlink" href="#aufgaben" title="Permalink zu dieser Überschrift"></a></h2>
-
 .. toctree::
     :maxdepth: 2
 
     mechanik/aufgaben.rst
-    akustik/aufgaben.rst
     optik/aufgaben.rst
     waermelehre/aufgaben.rst
     elektrizitaet-und-magnetismus/aufgaben.rst
@@ -80,12 +73,8 @@ Lösungen
     :maxdepth: 2
 
     mechanik/loesungen.rst
-    akustik/loesungen.rst
     optik/loesungen.rst
     waermelehre/loesungen.rst
     elektrizitaet-und-magnetismus/loesungen.rst
     atomphysik/loesungen.rst
-
-.. Papier hat in etwa gleiche Dicke wie menschliches Haar, rund 100 Mikrometer.
-.. Ein Blatt Papier hat ca. 10 Millionen Fasern.
 

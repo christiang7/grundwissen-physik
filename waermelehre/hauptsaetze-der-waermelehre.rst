@@ -1,5 +1,6 @@
-
 .. index:: Hauptsätze der Wärmelehre
+.. _Hauptsätze der Wärmelehre:
+.. _Hauptsätze der Thermodynamik:
 .. _Die Hauptsätze der Wärmelehre:
 
 Die Hauptsätze der Wärmelehre
@@ -11,7 +12,10 @@ thermischen Gleichgewicht mit seiner Umgebung, nimmt also im Normalfall die
 gleiche Temperatur wie seine Umgebung an. [#]_  Ebenso werden anfänglich kalte
 Körper durch eine warme Umgebung bis zum thermischen Gleichgewicht erwärmt.
 
-.. rubric:: Der "nullte" Hauptsatz
+.. _Nullter Hauptsatz:
+.. _Nullter Hauptsatz der Wärmelehre:
+
+.. rubric:: "Nullter" Hauptsatz
 
 Steht ein System :math:`\mathrm{A}` im thermischen Gleichgewicht mit einem
 System :math:`\mathrm{B}`, und steht gleichzeitig das System :math:`\mathrm{B}`
@@ -27,9 +31,11 @@ Hauptsatz im Nachhinein als "nullter" Hauptsatz bezeichnet.
 
 .. index:: Innere Energie
 .. _Erster Hauptsatz:
+.. _Erster Hauptsatz der Wärmelehre:
+.. _Erster Hauptsatz der Thermodynamik:
 
-Der erste Hauptsatz der Wärmelehre
-----------------------------------
+Erster Hauptsatz der Wärmelehre
+-------------------------------
 
 Energie kann nicht erzeugt oder vernichtet, sondern nur von einer Energieform
 in eine andere umgewandelt werden. Dieser Erhaltungssatz gilt nicht nur für
@@ -102,9 +108,9 @@ Der erste Hauptsatz der Wärmelehre schließt als Energie-Erhaltungssatz die
 Existenz einer Maschine aus, die ohne Zufuhr von Energie mechanische Arbeit
 verrichten kann.
 
-.. _Wärmequelle:
 .. _Heizwert:
 .. _Brennwert:
+.. _Wärmequelle:
 
 .. rubric:: Wärmequellen, Heiz- und Brennwert
 
@@ -192,13 +198,15 @@ Brennwerte von Lebensmitteln sind also ähnlich groß wie die Heizwerte der
 übrigen gängigen Brennstoffe.
 
 .. Wasserstoff fl
-
 .. Ethanol Brennwert 29,0
 
-.. _Zweiter Hauptsatz:
 
-Der zweite Hauptsatz der Wärmelehre
------------------------------------
+.. _Zweiter Hauptsatz:
+.. _Zweiter Hauptsatz der Wärmelehre:
+.. _Zweiter Hauptsatz der Thermodynamik:
+
+Zweiter Hauptsatz der Wärmelehre
+--------------------------------
 
 Der zweite Hauptsatz der Wärmelehre ist im Laufe der Geschichte auf drei
 verschiedene Arten formuliert worden, wobei sich herausgestellt hat, dass all
@@ -280,7 +288,7 @@ Formulierung nach Carnot
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Bereits in früheren Jahren `Sadi Carnot
-<https://de.wikipedia.org/wiki/Nicolas_Léonard_Sadi_Carnot>`_ in ähnlicher Weise
+<https://de.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot>`_ in ähnlicher Weise
 eine Formel hergeleitet, die den maximalen Wirkungsgrad eine Wärmekraftmaschine
 beschreibt. Er kam zu folgendem Ergebnis:
 
@@ -341,6 +349,7 @@ Je nach Anwendungszweck unterscheidet man zwischen zwei Prozessarten:
   entzogen, um diese als Nutzwärme einem wärmerem System zuzuführen.
 
 .. index:: Leistungszahl
+.. _Leistungszahl:
 
 In beiden Anwendungsfällen kann, wie bei einer Wärmekraftmaschine, die
 nutzbare Energiemenge in Relation zur aufgewendeten Energiemenge gesetzt werden.
@@ -547,9 +556,12 @@ Entropie des erwärmten Systems.
 
 
 .. _Dritter Hauptsatz:
+.. _Nernstsches Wärmetheorem:
+.. _Dritter Hauptsatz der Wärmelehre:
+.. _Dritter Hauptsatz der Thermodynamik:
 
-Der dritte Hauptsatz der Wärmelehre
------------------------------------
+Dritter Hauptsatz der Wärmelehre
+--------------------------------
 
 Der dritte Hauptsatz der Wärmelehre, auch `Nernst
 <https://de.wikipedia.org/wiki/Walther_Nernst>`_'sches Wärmetheorem genannt,

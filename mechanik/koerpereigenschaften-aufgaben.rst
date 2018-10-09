@@ -3,12 +3,13 @@
 Körpereigenschaften
 ===================
 
+Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Körpereigenschaften <Körpereigenschaften>`.
+
 .. _Aufgaben Volumen:
 
 Volumen
 -------
-
-Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Volumen <Volumen>`.
+.. {{{
 
 ----
 
@@ -33,12 +34,13 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Volumen <Volumen>`.
 
 ----
 
+.. }}}
+
 .. _Aufgaben Dichte:
 
 Dichte
 ------
-
-Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Dichte <Dichte>`.
+.. {{{
 
 ----
 
@@ -118,7 +120,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Dichte <Dichte>`.
 
 ----
 
-.. foo
+.. }}}
 
 .. only:: html
 

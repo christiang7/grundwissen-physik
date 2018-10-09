@@ -300,10 +300,11 @@ und Getriebe>`.
 .. _kgz01l:
 
 * Die Kurbel und das vordere Zahnrad sind fest miteinander verbunden, ebenso das
-  hintere Zahnrad und die Felge des Hinterrads. In beide Teilekombinationen sind
-  die wirkende Drehmomente damit jeweils gleich. Somit kann als zunächst die
-  Kraft :math:`F_2` berechnet werden, die das vordere Zahnrad auf die Kette
-  ausübt. Für das Drehmoment, das der Fahrer auf die Kurbel ausübt, gilt:
+  hintere Zahnrad und die Felge des Hinterrads. In diesen beiden
+  Teile-Kombinationen sind die wirkende Drehmomente jeweils gleich. Somit kann
+  als zunächst die Kraft :math:`F_2` berechnet werden, die das vordere Zahnrad
+  auf die Kette ausübt. Für das Drehmoment, das der Fahrer auf die Kurbel
+  ausübt, gilt:
 
   .. math::
 

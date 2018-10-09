@@ -4,16 +4,17 @@ Aufbau der Materie
 ==================
 
 Atome sind die kleinsten Bausteine eines jeden chemischen Stoffes. Sie können
-nicht weiter zerteilt werden, ohne ihre charakteristischen Eigenschaften des
+nicht weiter zerteilt werden, ohne die charakteristischen Eigenschaften des
 jeweiligen Stoffes zu verlieren. Ein Atom hat einen Durchmesser in der
 Größenordnung von :math:`\unit[1 \cdot 10 ^{-10}]{m} = \unit[1]{\mathring{A}}`
 (ein "Angström", benannt nach `Anders Angström
-<http://de.wikipedia.org/wiki/Anders_Jonas_Ångström>`_).
+<https://de.wikipedia.org/wiki/Anders_Jonas_%C3%85ngstr%C3%B6m>`_).
 
 .. index:: Nukleon
+.. _Nukleon:
 
 Alle Atome enthalten einen Atomkern, der fast die gesamte Masse eines Atoms
-beinhaltet. Er besteht aus Kernbauteilchen ("Nukleonen"), d.h. aus positiv
+beinhaltet. Er besteht aus Kernbauteilchen ("Nukleonen"), also aus positiv
 geladenen Protonen und gleich schweren, jedoch ungeladenen Neutronen. Umgeben
 wird der Atomkern von einer nahezu masselosen Hülle aus Elektronen.
 
@@ -40,30 +41,43 @@ wird der Atomkern von einer nahezu masselosen Hülle aus Elektronen.
 
 Mit :math:`\unit[1]{e} = \unit[1,6022 \cdot 10^{-19}]{C}` wird dabei die
 Elementarladung bezeichnet. Ein Proton beziehungsweise Neutron ist jeweils um
-rund 1836 mal schwerer als ein Elektron; der Durchmesser des Atomkerns beträgt
-hingegen nur das :math:`1 / 10000`- bis :math:`1 / 100000`-fache des
-Durchmessers der Elektronenhülle.
+ein rund :math:`2000`-faches schwerer als ein Elektron; der Durchmesser eines
+Atomkerns ist zugleich jedoch um ein rund rund :math:`100\,000`-faches kleiner
+als die Elektronenhülle.
 
-.. index:: Atomhülle
+
+.. index:: Atomhülle, Elektronenhülle, Ionisierungsenergie
+.. _Ionisierungsenergie:
+.. _Elektronenhülle:
 .. _Die Elektronenhülle:
 
-Die Elektronenhülle
--------------------
+Elektronenhülle
+---------------
 
-Ein Atom im Grundzustand ist nach außen hin elektrisch neutral, es besitzt
-genauso viele Elektronen in der Atomhülle wie Protonen im Atomkern. Der Aufbau
-der Elektronenhülle eines Atoms ist für die elektrischen und chemischen
-Eigenschaften eines Elementes von entscheidender Bedeutung.
+| Ein Atom im Grundzustand ist nach außen hin elektrisch neutral, es besitzt
+  genauso viele Elektronen in der Atomhülle wie Protonen im Atomkern. Der Aufbau
+  der Elektronenhülle eines Atoms ist für die elektrischen und chemischen
+  Eigenschaften eines Elementes von entscheidender Bedeutung. 
+| Zur strukturellen Beschreibung der Elektronenhülle wird meist das
+  :ref:`Schalenmodell <Das Schalenmodell>` verwendet.
 
-Zur strukturellen Beschreibung der Elektronenhülle wird meist das
-:ref:`Schalenmodell <Das Schalenmodell>` verwendet.
+
+Ein kann ionisiert werden, indem ein Elektron aus seiner Valenzschale in eine
+darüber liegende, noch unbesetzte Schale angehoben wird. Die für das "Anheben"
+des Elektrons (entgegen dem :ref:`elektrischen Feld <Elektrisches Feld>`  des Atomkerns) der dazu
+Ionisierungsenergie nötig.
+
+Bei chemischen Reaktionen findet eine Wechselwirkung zwischen den
+Elektronenhüllen zweier oder mehrerer Atome statt; die Atomkerne bleiben
+dabei unverändert.
 
 
 .. index:: Atomkern, Nuklid
+.. _Atomkern:
 .. _Der Atomkern:
 
-Der Atomkern
-------------
+Atomkern
+--------
 
 Atomkerne ("Nuklide") setzen sich aus elektrisch positiv geladenen Protonen und
 elektrisch neutralen Neutronen zusammen; sie haben einen Durchmesser in der
@@ -77,6 +91,7 @@ elektrostatische Kraft, die zwischen den positiv geladenen Protonen wirkt.
 
 
 .. index:: Kernladungszahl
+.. _Kernladungszahl:
 
 Die Anzahl der Protonen eines Atomkerns wird als Ordnungszahl :math:`Z`
 bezeichnet, da sie für jedes chemische Element charakteristisch ist. Die Anzahl
@@ -84,6 +99,7 @@ der Neutronen im Atomkern hingegen kann bei verschiedenen Atomen des gleichen
 Elements variieren.
 
 .. index:: Massenzahl
+.. _Massenzahl:
 
 Die Summe der Protonen- und Neutronenanzahl wird als Massenzahl :math:`A`
 bezeichnet, da sie die Masse eines Atomes bestimmt. Zur Kennzeichnung des
@@ -186,8 +202,8 @@ physikalische und chemische Eigenschaften.
 .. index:: Massendefekt
 .. _Massendefekt:
 
-Der Massendefekt
-----------------
+Massendefekt
+------------
 
 Die Masse eines Atomes entspricht nicht genau der Summe der Massen der
 Elementarteilchen, sondern ist stets etwas geringer. Dieser Masseverlust,

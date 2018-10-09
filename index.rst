@@ -16,16 +16,14 @@ Physik
 
     .. sidebar:: Hinweis
 
-        Eine Offline-Version dieses Buchs sowie einer kompakten Formelsammlung
-        gibt es hier zum Herunterladen:
-
-        | :download:`Grund-Wissen Physik (PDF) <grundwissen-physik.pdf>`
-        | :download:`Formelsammlung Physik (PDF) <formelsammlung-physik.pdf>`
-
-        Der Quellcode dieses Projekts kann von `GitHub
+        Dieses Projekt kann als Quellcode von `GitHub
         <https://www.github.com/grund-wissen/grundwissen-physik>`_
         heruntergeladen werden.
 
+        Offline-Versionen:
+
+        | :download:`(PDF) Grund-Wissen Physik  <../../build/physik/latex/grundwissen-physik.pdf>`
+        | :download:`(PDF) Formelsammlung Physik <formelsammlung-physik.pdf>`
 
 
 .. toctree::

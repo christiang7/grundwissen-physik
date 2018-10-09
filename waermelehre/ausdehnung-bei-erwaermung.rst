@@ -16,9 +16,9 @@ Ausdehnung von Festkörpern
 --------------------------
 
 Ändert sich die Temperatur eines festen Körpers um einen bestimmten Betrag, so
-ändert sich entsprechend auch seine Länge bzw. seine Fläche und sein Volumen.
-Mit steigender Temperatur nimmt die Länge zu, mit sinkender Temperatur nimmt die
-Länge ab.
+ändert sich entsprechend auch seine Länge beziehungsweise seine Fläche und sein
+Volumen. Mit steigender Temperatur nimmt die Länge zu, mit sinkender Temperatur
+nimmt die Länge ab.
 
 *Formel:*
 
@@ -98,8 +98,8 @@ Länge ab.
 .. Beispiel Bimetall? Pic Haas S.91
 
 Auf ähnliche Weise wie in Gleichung :eq:`eqn-längenausdehnung-festkörper-2` kann
-die neue Fläche :math:`A_{\mathrm{neu}}` bzw. das neue Volumen :math:`V
-_{\mathrm{neu}}` eines festen Körpers der Fläche :math:`A` bzw. des Volumens
+die neue Fläche :math:`A_{\mathrm{neu}}` beziehungsweise das neue Volumen :math:`V
+_{\mathrm{neu}}` eines festen Körpers der Fläche :math:`A` beziehungsweise des Volumens
 :math:`V` bei einer Temperaturänderung um :math:`\Delta T` berechnet werden.
 Dabei geht man davon aus, dass sich der betrachtete Festkörper in alle
 Richtungen gleich ausdehnt: [#]_
@@ -120,11 +120,12 @@ folgendermaßen geschrieben werden: [#]_
 Hierbei ist :math:`\gamma \approx 3 \cdot \alpha` der so genannte
 Volumen-Ausdehnungskoeffiezient.
 
-Im Wesentlichen ist temperaturbedingte Längen- bzw. Volumenzunahme eines
-Festkörpers darauf zurückzuführen, dass die Atome bzw. Moleküle des Festkörpers
-mit zunehmender Temperatur stärker um ihre Ruhelage schwingen. Dadurch
-vergrößern sich die Abstände zwischen den einzelnen Teilchen, und das Volumen
-des Körpers nimmt zu.
+Im Wesentlichen ist temperaturbedingte Längen- beziehungsweise Volumenzunahme
+eines Festkörpers darauf zurückzuführen, dass die Atome beziehungsweise Moleküle
+des Festkörpers mit zunehmender Temperatur stärker um ihre Ruhelage schwingen.
+Dadurch vergrößern sich die Abstände zwischen den einzelnen Teilchen, und das
+Volumen des Körpers nimmt zu; zugleich nehmen die :ref:`Kohäsionskräfte <Kohäsionskraft>`, welche die
+Atome beziehungsweise Moleküle des Festkörpers zusammen halten, geringer.
 
 In der Technik versucht man geeignete Materialkombinationen zu nutzen, um
 mechanische Spannungen aufgrund von (unterschiedlich starken) Wärmeausdehnungen
@@ -178,8 +179,8 @@ Volumen zu, mit sinkender Temperatur nimmt das Volumen ab.
       - :math:`0,21`
 
 Im Wesentlichen ist temperaturbedingte Volumenzunahme von Flüssigkeiten darauf
-zurückzuführen, dass die Geschwindigkeit der Atome bzw. Moleküle in der
-Flüssigkeit zunimmt. Die Teilchen beanspruchen so mehr Raum innerhalb der
+zurückzuführen, dass die Geschwindigkeit der Atome beziehungsweise Moleküle in
+der Flüssigkeit zunimmt. Die Teilchen beanspruchen so mehr Raum innerhalb der
 Flüssigkeit, das Volumen nimmt zu.
 
 Ändert sich das Volumen einer bestimmten Flüssigkeitsmenge, so ändert sich auch
@@ -298,13 +299,13 @@ proportional zur absoluten Temperatur aus.
   Das Luftvolumen nimmt somit um etwa :math:`\unit[0,73]{l}` zu.
 
 Die temperaturbedingte Volumenzunahme von Gasen ist -- wie bei Flüssigkeiten --
-im wesentlichen darauf zurückzuführen, dass die Geschwindigkeit der Atome bzw.
-Moleküle im Gas zunimmt. Dadurch beanspruchen die Teilchen mehr Raum,
-das Volumen des Gases nimmt zu. Experimentell lässt sich eine Ausdehnung bei
-konstantem Druck beispielsweise mittels eines (Luft-)Ballons in einem Wasserbad
-oder mittels eines Zylinders mit beweglichem Kolben verwirklichen. In beiden
-Fällen bleibt die Menge der Gasteilchen innerhalb des Gefäßes konstant, es
-handelt sich also um geschlossene Systeme.
+im wesentlichen darauf zurückzuführen, dass die Geschwindigkeit der Atome
+beziehungsweise Moleküle im Gas zunimmt. Dadurch beanspruchen die Teilchen mehr
+Raum, das Volumen des Gases nimmt zu. Experimentell lässt sich eine Ausdehnung
+bei konstantem Druck beispielsweise mittels eines (Luft-)Ballons in einem
+Wasserbad oder mittels eines Zylinders mit beweglichem Kolben verwirklichen. In
+beiden Fällen bleibt die Menge der Gasteilchen innerhalb des Gefäßes konstant,
+es handelt sich also um geschlossene Systeme.
 
 Kann ein Gas während einer Temperaturänderung um :math:`\Delta T` sein Volumen
 :math:`V` nicht ändern, weil es beispielsweise in einem festen Behälter
@@ -469,7 +470,7 @@ bleibt:
 .. [#] Genau genommen stellen die Wärmeausdehnungs-Formeln "nur" Näherungen
     dar; für die meisten Anwendungen sind sie allerdings völlig ausreichend.
     Siehe auch `Wärmeausdehnung (Wikipedia)
-    <https://de.wikipedia.org/wiki/Wärmeausdehnung>`_ bzw.
+    <https://de.wikipedia.org/wiki/W%C3%A4rmeausdehnung>`_ beziehungsweise
     `Ausdehnungskoeffizient (Wikipedia)
     <https://de.wikipedia.org/wiki/Ausdehnungskoeffizient>`_
 

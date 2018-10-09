@@ -215,9 +215,9 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
       \Leftrightarrow \quad F_{\mathrm{Z,x}} = F_{\mathrm{Z}} \cdot
       \cos{(\alpha)}
 
-  Für den Betrag der Zugkraft gilt somit :math:`F_{\mathrm{Z}} = \frac{F
-  _{\mathrm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10 \degree)}}
-  \approx \unit[76,2]{N}`.
+  Für den Betrag der Zugkraft gilt somit :math:`F_{\mathrm{Z}} =
+  \frac{F_{\mathrm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10
+  \degree)}} \approx \unit[76,2]{N}`.
 
   :ref:`Zurück zur Aufgabe <dynz03>`
 

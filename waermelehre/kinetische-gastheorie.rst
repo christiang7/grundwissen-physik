@@ -64,7 +64,7 @@ gleich dem Quotienten aus Kraft und Wandfläche:
 .. math::
 
     p = \frac{F}{A} = \frac{m \cdot v_{\mathrm{x}}^2}{A \cdot l}
-    = \frac{2 \cdot m \cdot v_{\mathrm{x}}^2}{V}
+    = \frac{m \cdot v_{\mathrm{x}}^2}{V}
 
 Im letzten Rechenschritt wurde die Beziehung :math:`V = A \cdot l` verwendet.
 Geht man nun nicht von einem einzelnen, sondern von :math:`N` Teilchen aus, die
@@ -74,7 +74,7 @@ einzelnen Beiträge zum Gesamtdruck:
 
 .. math::
 
-    p = \frac{2 \cdot m}{V} \cdot (v_{x,1}^2 + v_{x,2}^2 + \ldots +
+    p = \frac{m}{V} \cdot (v_{x,1}^2 + v_{x,2}^2 + \ldots +
     v_{x,n}^2)
 
 Da in einem Gasvolumen üblicherweise sehr viele Teilchen vorkommen, ist es

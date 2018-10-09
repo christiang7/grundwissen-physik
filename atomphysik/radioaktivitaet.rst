@@ -339,7 +339,7 @@ erkennbar wird.
 
 Im Jahr 1928 entwickelten `Hans Geiger
 <https://de.wikipedia.org/wiki/Hans_Geiger_(Physiker)>`_ und `Walther Müller
-<https://de.wikipedia.org/wiki/Walther_Müller>`_ eine Apparatur, welche die
+<https://de.wikipedia.org/wiki/Walther_M%C3%BCller>`_ eine Apparatur, welche die
 ionisierende Wirkung von Gammastrahlen als akustische Geräusche hörbar machte.
 Ein solches Geiger-Müller-Zählrohr ("Geigerzähler") besteht aus einem
 Metallrohr, in dem ein dünner Metallfaden gespannt ist. Der Metallfaden ist

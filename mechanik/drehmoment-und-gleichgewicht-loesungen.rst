@@ -7,6 +7,8 @@ Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 <Drehmoment und Gleichgewicht>`.
 
+.. {{{
+
 ----
 
 .. _ggw01l:
@@ -24,7 +26,7 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
   Grundkörpers liegen; diese Verlagerung des Schwerpunkts wird durch einen
   Einbau von Zusatz-Gewichten im unteren Teil des Stehaufmännchens erreicht.
 
-  .. figure:: 
+  .. figure::
       ../pics/mechanik/drehmoment-und-gleichgewicht/stehaufmaennchen.png
       :align: center
       :width: 60%
@@ -64,7 +66,7 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
   wäre. An der Stelle des jeweils "weggeschnittenen" Trägers muss also eine
   Kraft wirken, die das von der Last bewirkte Drehmoment ausgleicht.
 
-  .. figure:: 
+  .. figure::
       ../pics/mechanik/drehmoment-und-gleichgewicht/gewichtsverteilung-loesung.png
       :align: center
       :width: 70%
@@ -112,7 +114,7 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 
 ----
 
-.. foo
+.. }}}
 
 .. only:: html
 

@@ -19,7 +19,8 @@ Links und Quellen
   <http://qudev.ethz.ch/content/science/BuchPhysikIV/PhysikIVli1.html>`_
 * `Halbleiter-Infos <https://www.halbleiter.org/>`_
 * `Physik-Wikibooks <https://de.wikibooks.org/wiki/Regal:Physik>`_
-* `Grundlagen der Akustik Wikibook <https://de.wikibooks.org/wiki/Grundlagen_der_Akustik:_Inhaltsübersicht>`_ 
+* `Grundlagen der Akustik Wikibook
+  <https://de.wikibooks.org/wiki/Grundlagen_der_Akustik:_Inhalts%C3%BCbersicht>`_ 
 * `PTB-Broschüre zu den Internationalen Einheiten (SI)
   <https://www.ptb.de/cms/presseaktuelles/broschueren/zum-internationalen-einheitensystem.html>`__
 
@@ -69,9 +70,9 @@ Links und Quellen
         * `Astromedia <http://astromedia.de>`_
         * `Busch <http://www.busch-model.com/sf/experi.htm>`_
         * `Eitech <http://www.eitech.de>`_
-        * `Experimentis <http://experimentis-shop.de>`_
-        * `Kids-and-Science <http://kids-and-science.rakuten-shop.de/>`_
-        * `Opitec <http://de.opitec.com/>`_
+        * `Experimentis <https://experimentis-shop.de>`_
+        * `Kids-and-Science <https://www.rakuten.de/shops/kids-and-science/>`_
+        * `Opitec <http://de.opitec.com/opitec-web/st/Home>`_
 
 ..  http://www.hund-hersbruck.de/GAphysik_2.htm
 ..  auch Gwagglis
@@ -87,7 +88,7 @@ Links und Quellen
         :columns: 2
 
         * `Conatex <https://www.conatex.com/>`_
-        * `Cornelsen <http://www.corex.de/>`_
+        * `Cornelsen <https://cornelsen-experimenta.de/>`_
         * `Elwe <https://www.3bscientific.de/Physik,pg_83.html>`_
         * `Henschke <http://www.henschke-geraetebau.de/>`_
         * `Leybold <https://www.ld-didactic.de/>`_
@@ -105,7 +106,7 @@ Links und Quellen
 
 .. rubric:: Chemie-Links
 
-* `Die Chemie-Schule <http://www.chemie-schule.de/index.php>`_
+* `Die Chemie-Schule <https://www.chemie-schule.de/index.php>`_
 * `ChemgaPedia (umfangreiche Chemie-Enzyklopädie mit Lehrgängen) <http://www.chemgapedia.de/vsengine/de/index.html>`_
 * `Netchemie Freihandversuche <http://netchemie.de/>`_
 
@@ -148,7 +149,7 @@ Die Graphik :ref:`Schallpegel in Dezibel <fig-schallpegel>` ist nach
 <fig-isophone-lautstaerkepegel>` nach der Creative-Commons-Graphik `Isophone
 <https://de.wikibooks.org/wiki/Datei:Isophone.svg>`_ von Raphael Frey entworfen
 (veröffentlicht im `Wikibook: Grundlagen Akustik
-<https://de.wikibooks.org/wiki/Grundlagen_der_Akustik:_Lautstärke_und_Lautheit>`_.
+<https://de.wikibooks.org/wiki/Grundlagen_der_Akustik:_Lautst%C3%A4rke_und_Lautheit>`_.
 
 Die Werte aus Tabelle :ref:`Schallgeschwindigkeiten in verschiedenen Materialien
 <tab-schallgeschwindigkeit>` stammt von der Seite `Schallgeschwindigkeit
@@ -171,7 +172,7 @@ fester Stoffe <tab-längenausdehnungskoeffizienten>` und
 :ref:`Volumenausdehnungskoeffiziente flüssiger Stoffe
 <tab-volumenausdehnungskoeffizienten-flüssig>` stammen aus der Seite
 `Ausdehnungskoeffizient (Wikipedia)
-<https://de.wikipedia.org/wiki/Längenausdehnungskoeffizient>`_.
+<https://de.wikipedia.org/wiki/L%C3%A4ngenausdehnungskoeffizient>`_.
 
 .. rubric:: Quellenangaben zu Elektrizität und Magnetismus
 

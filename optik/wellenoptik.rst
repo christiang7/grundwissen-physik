@@ -57,7 +57,7 @@ der Elementarwellen:
 
 .. index:: Wellenfront
 
-Unter einer Wellenfront versteht man die Menge aller Punkte, die zu einem
+Unter einer "Wellenfront" versteht man die Menge aller Punkte, die zu einem
 bestimmten Zeitpunkt eine gleiche Phasenlage aufweisen, also beispielsweise zu
 einem bestimmten Zeitpunkt einen Wellenberg darstellen. Das Huygensche Prinzip
 kann also als eine Art geometrische Konstruktionshilfe aufgefasst werden, die

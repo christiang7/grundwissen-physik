@@ -157,9 +157,9 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
       R = \rho \cdot \frac{l}{A} = \unit[0,0156]{\frac{\Omega \cdot mm^2}{m}
       } \cdot \frac{\unit[10]{m}}{\unit[12,56]{mm^2}}
-      \approx  \unit[0,12]{\Omega }
+      \approx  \unit[0,012]{\Omega }
 
-  Der Draht hat einen elektrischen Widerstand von rund :math:`\unit[0,12]{\Omega }`.
+  Der Draht hat einen elektrischen Widerstand von rund :math:`\unit[0,012]{\Omega }`.
 
   :ref:`Zurück zur Aufgabe <espw01>`
 

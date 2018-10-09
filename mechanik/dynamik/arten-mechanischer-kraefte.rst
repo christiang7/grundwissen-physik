@@ -523,7 +523,7 @@ betragen.
          F_{\mathrm{G}} = \gamma \cdot \frac{m_1 \cdot m_2}{r^2}
 
     Dabei ist :math:`\gamma = \unit[6,67 \cdot 10^{-11}]{\frac{m^3}{kg \cdot
-    s^2}}` die allgemeine Gravitationskonstante. Für die Schwerkraft, die ein
+    s^2}}` die allgemeine Gravitationskonstante. Für die Gewichtskraft, die ein
     Körper in Nähe der Erdoberfläche erfährt, kann näherungsweise und :math:`r
     \approx r_{\mathrm{E}} = \unit[6371]{km}` gesetzt werden (der Abstand eines
     Gegenstands von der Erdoberfläche ist meist vernachlässigbar klein gegenüber
@@ -533,7 +533,7 @@ betragen.
 
     .. math::
 
-        g = \gamma \cdot \frac{m_2}{r_{\mathrm{E}}^2} \, \approx \, \unit[9,81]{\frac{m}{s^2}}
+        g = \gamma \cdot \frac{m_{\mathrm{E}}}{r_{\mathrm{E}}^2} \, \approx \, \unit[9,81]{\frac{m}{s^2}}
 
     Für die Gewichtskraft eines Körpers :math:`m` auf der Erde gilt damit in
     guter Näherung:

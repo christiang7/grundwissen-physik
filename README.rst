@@ -4,7 +4,7 @@ Grundwissen Physik
 In dieser Dokumentation aus der `Grund-Wissen <http://www.grund-wissen.de>`_
 -Reihe geht es um einige grundlegende Themen der Physik.
 
-Das Projekt verwendet `Sphinx <http://sphinx-doc.org/>`_ als Programm zum
+Das Projekt verwendet `Sphinx <http://www.sphinx-doc.org/en/master/>`_ als Programm zum
 Erstellen der HTML- bzw. PDF-Dokumente. Die Dokumentation wird kontinuierlich
 ausgebaut, Unterstützung bei der Weiterentwicklung ist gerne willkommen.
 
@@ -22,9 +22,7 @@ folgendermaßen installiert werden:
 
 .. code-block:: bash
 
-    aptitude install python3-setuptools
-
-    easy_install3 -U Sphinx
+    pip3 install -U Sphinx
 
 Anschließend kann das Repository heruntergeladen werden:
 
@@ -47,7 +45,10 @@ Die fertigen Dokumente befinden sich anschließend im Verzeichnis ``_build/html`
 beziehungsweise ``_build/latex``.
 
 Sollen eigene, lokale Änderungen an der Dokumentation in dieses Repository
-übernommen werden, so wird um einen entsprechenden Pull-Request gebeten.
+übernommen werden, so wird um eine `Email
+<https://www.grund-wissen.de/impressum.html>`__ oder einen Pull-Request gebeten.
+
 
 Herzlichen Dank an alle Mitwirkenden!
+
 

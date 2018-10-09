@@ -3,10 +3,11 @@
    :keywords: Arbeit, Joule (Einheit)
 
 .. index:: Arbeit
+.. _Arbeit:
 .. _Mechanische Arbeit:
 
-Die mechanische Arbeit
-======================
+Mechanische Arbeit
+==================
 
 Wirkt eine Kraft auf einen Körper ein und bewirkt dabei eine Verformung, eine
 Beschleunigung oder ein Anheben des Körpers, so wird physikalische Arbeit
@@ -14,6 +15,7 @@ verrichtet. Um die Größe der verrichteten Arbeit zu bestimmen, müssen der Bet
 der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein.
 
 .. index:: Joule (Einheit)
+.. _Joule:
 
 *Definition:*
 
@@ -36,6 +38,7 @@ der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein
     :math:`s_1` und :math:`s_2` verrichtete Arbeit der Fläche zwischen dem
     entsprechenden Abschnitt des Graphen und der horizontalen :math:`s`-Achse.
 
+.. todo pic Diagramm
 
 *Einheit:*
 
@@ -84,10 +87,10 @@ Arten mechanischer Arbeit
 Bei mechanischen Prozessen sind die folgenden Arten mechanischer Arbeit von
 entscheidender Bedeutung:
 
-.. index:: Arbeit; Hubarbeit
+.. index:: Arbeit; Hubarbeit, Hubarbeit
 .. _Hubarbeit:
 
-.. rubric:: Die Hubarbeit
+.. rubric:: Hubarbeit
 
 Erfahrungsgemäß ist es einfacher, einen leichten Körper hoch zu heben als einen
 schweren. Doch auch beim Heben zweier gleich schwerer Körper gibt es
@@ -110,10 +113,10 @@ Die Hubarbeit kann mit Hilfe der Formel für die Gewichtskraft
 g \cdot h` geschrieben werden.
 
 
-.. index:: Arbeit; Reibungsarbeit
+.. index:: Arbeit; Reibungsarbeit, Reibungsarbeit
 .. _Reibungsarbeit:
 
-.. rubric:: Die Reibungsarbeit
+.. rubric:: Reibungsarbeit
 
 Um einen Körper auf einer waagrechten Ebene gleichförmig zu bewegen, muss der
 Reibungskraft eine gleich große Gegenkraft entgegenwirken.
@@ -137,10 +140,10 @@ aller auftretenden Reibungskräfte.
 .. index:: Arbeit; Spannarbeit
 .. _Spannarbeit:
 
-.. rubric:: Die Spannarbeit
+.. rubric:: Spannarbeit
 
-Die Spannkraft, die ein elastischer Körper (beispielsweise eine Schraubenfeder) einer
-Stauchung oder Streckung entgegensetzt, ist nicht konstant, sondern nimmt
+Die Spannkraft, die ein elastischer Körper (beispielsweise eine Schraubenfeder)
+einer Stauchung oder Streckung entgegensetzt, ist nicht konstant, sondern nimmt
 gleichmäßig mit der Auslenkung zu:
 
 * Die anfängliche Spannkraft der Feder in der Ruhelage ist Null.
@@ -160,6 +163,7 @@ also:
 
 Dies gilt allgemein für elastische Verformungen.
 
+
 *Definition:*
 
     Die zur Verformung eines elastischen Körpers (beispielsweise einer
@@ -175,15 +179,15 @@ Dies gilt allgemein für elastische Verformungen.
     F_{\mathrm{S}} \cdot s
 
 Die Spannarbeit kann mit Hilfe der Formel für die Spannkraft
-(:math:`F_{\mathrm{S}} = - D \cdot s`) auch als :math:`W_{\mathrm{Spannn}} =
+(:math:`|F_{\mathrm{S}}| = D \cdot s`) auch als :math:`W_{\mathrm{Spannn}} =
 \frac{1}{2} \cdot D \cdot s^2` geschrieben werden, wobei :math:`D` die (oftmals
 experimentell zu bestimmende) Federkonstante des Körpers angibt.
 
 
-.. index:: Arbeit; Beschleunigungsarbeit
+.. index:: Arbeit; Beschleunigungsarbeit, Beschleunigungsarbeit
 .. _Beschleunigungsarbeit:
 
-.. rubric:: Die Beschleunigungsarbeit
+.. rubric:: Beschleunigungsarbeit
 
 Zur Überwindung der Trägheit ist eine Kraft notwendig. Die zugehörige Arbeit,
 die bei einer Beschleunigung entlang einer Strecke :math:`s`  auftritt, heißt
@@ -209,7 +213,7 @@ v_1^2)`.
 .. index:: Arbeit; Rotationsarbeit
 .. _Rotationsarbeit:
 
-.. rubric:: Die Rotationsarbeit
+.. rubric:: Rotationsarbeit
 
 Zur Überwindung der Trägheit ist für eine Rotation ein Drehmoment notwendig.
 Die zugehörige Arbeit heißt Rotationsarbeit.
@@ -241,8 +245,8 @@ Winkelgeschwindigkeiten eingesetzt werden.
 
 .. _Goldene Regel der Mechanik:
 
-Die goldene Regel der Mechanik
-------------------------------
+Goldene Regel der Mechanik
+--------------------------
 
 Während Kräfte durch entsprechende Hilfsmittel in ihrer Richtung oder ihrem
 Betrag geändert werden können, kann die für einen mechanischen Prozess nötige

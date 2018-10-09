@@ -1,6 +1,8 @@
+.. index:: Doppler-Effekt
+.. _Doppler-Effekt:
 
-Der Doppler-Effekt
-==================
+Doppler-Effekt
+==============
 
 Bewegen sich eine Schallquelle und/oder ein Schallempfänger aufeinander zu, so
 tritt der nach `Christian Doppler
@@ -168,6 +170,9 @@ muss im Zähler ein Plus-Zeichen gesetzt werden.
 .. elektromagnetischen Wellen, beispielsweise Licht auf.
 
 
+.. index:: Mach-Kegel
+.. _Mach-Kegel:
+.. _Schallmauer:
 .. _Schallmauer und Mach-Kegel:
 
 .. rubric:: Schallmauer und Mach-Kegel

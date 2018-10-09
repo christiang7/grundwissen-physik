@@ -12,10 +12,9 @@ Einleitung
 
 
 .. _Teilbereiche der Physik:
-.. _Die Teilbereiche der Physik:
 
-Die Teilbereiche der Physik
----------------------------
+Teilbereiche der Physik
+-----------------------
 
 Die Physik kann ihrerseits in weitere Teilbereiche untergliedert werden. Hierbei
 unterscheidet man für gewöhnlich die "klassische" Physik (Mechanik, Akustik,
@@ -30,17 +29,16 @@ dieses Buchs nur knapp behandelt werden kann.
     :ref:`Optik` und :ref:`Wärmelehre`. In diesen Bereichen sind Beobachtungen
     oftmals direkt mit menschlichen Sinnen möglich.
 
-
-
     In den weiteren Teilbereichen :ref:`Elektrizitätslehre <Elektrizität und
     Magnetismus>` und :ref:`Magnetismus`, die ebenfalls zur "klassischen" Physik
     gezählt werden, sind viele Vorgänge trotz oft alltäglichen Erfahrungen nicht
     direkt mit menschlichen Sinnen wahrnehmbar.
 
+
 *Moderne* Physik
     Durch die Arbeiten von `Albert Einstein
     <https://de.wikipedia.org/wiki/Albert_Einstein>`_ (Relativitätstheorie),
-    `Erwin Schrödinger <https://de.wikipedia.org/wiki/Erwin_Schrödinger>`_ und
+    `Erwin Schrödinger <https://de.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger>`_ und
     `Werner Heisenberg <https://de.wikipedia.org/wiki/Werner_Heisenberg>`_
     (Quantentheorie) und anderen wurde im 20. Jahrhundert die "moderne" Physik
     begründet.
@@ -65,34 +63,7 @@ kann. [#]_ Ob dies tatsächlich so ist, welche Erklärungen hierfür gefunden
 werden können und welche Konsequenzen diese Erkenntnis wohl haben wird, kann bis
 heute niemand mit Gewissheit sagen..
 
-
-.. .. list-table:: Die Teilbereiche der Physik
-..     :name: physik-teilbereiche
-..     :widths: 30 50 50
-..     :stub-columns: 0
-..     :header-rows: 0
-
-..     * - Klassische Physik:
-..       - * :ref:`Mechanik`
-..         * :ref:`Akustik`
-..         * :ref:`Optik`
-..         * :ref:`Wärmelehre`
-..       - Beobachtungen sind direkt mit menschlichen Sinnen möglich
-..     * -
-..       - * :ref:`Elektrizitätslehre <Elektrizität und Magnetismus>`
-..         * :ref:`Magnetismus`
-..       - Manche Vorgänge sind trotz alltäglichen Erfahrungen nicht direkt mit
-..         menschlichen Sinnen wahrnehmbar.
-..     * - Moderne Physik:
-..       - * :ref:`Atom-, Kern- und Teilchenphysik <Atom- und Kernphysik>`
-..         * Quantentheorie
-..         * Relativitätstheorie
-..         * Festkörperphysik
-..       - Direkte Beobachtungen von Vorgängen sind mit menschlichen Sinnen
-..         unmöglich. Teilweise sind sehr aufwendige Experimente nötig.
-
 ..  Zeitstrang?
-
 
 
 .. _Physikalisches Experimentieren:
@@ -154,6 +125,9 @@ Messbarkeit der entsprechenden Größen.
 
 
 .. index:: Einheiten
+.. _Größe:
+.. _Einheit:
+.. _Einheiten:
 .. _Größen und Einheiten:
 
 Größen und Einheiten
@@ -188,7 +162,34 @@ ist für dieses Objekt :math:`\{ m \} = 5,0`; insgesamt kann man also in diesem
 Fall :math:`m=\unit[5,0]{kg}` schreiben (das Mal-Zeichen zwischen Zahlenwert und
 Einheit wird üblicherweise nicht explizit geschrieben).
 
+* Größen können nur addiert oder subtrahiert werden, wenn sie in ihren Einheiten
+  übereinstimmen. Zuerst müssen also einzelne Einheiten gegebenenfalls passend
+  umgerechnet werden.
 
+* Größen können stets miteinander multipliziert oder durcheinander dividiert
+  werden. Das Ergebnis ergibt sich durch die Anwendung der Rechenvorschrift
+  sowohl auf die Zahlenwerte als auch auf die Einheiten der einzelnen Größen.
+
+*Beispiele:*
+
+* Die Addition von :math:`\unit[1,0]{m}` plus :math:`\unit[70]{cm}` kann man
+  auch als :math:`\unit[1,0]{m} + \unit[0,70]{m}` schreiben; das Ergebnis ist
+  dann :math:`\unit[1,7]{m}`.
+
+* Bewegt man sich um eine :math:`\unit[1,5]{m}` je :math:`\unit[1]{s}` weiter,
+  so beträgt die Geschwindigkeit :math:`\unit[\frac{1,5}{1,0}]{\frac{m}{s}}=
+  \unit[1,5]{\frac{m}{s}}`.
+
+* Wirkt auf eine Kurbel eine Kraft von :math:`\unit[40]{N}` im Abstand von
+  :math:`\unit[0,3]{m}` von der Drehachse in senkrechter Richtung ein, so
+  bewirkt diese ein Drehmoment von :math:`\unit[40]{N} \cdot \unit[0,3]{m} =
+  \unit[12]{Nm}`.
+
+
+.. _Skalare Größe:
+.. _Skalare Größen:
+.. _Vektorielle Größe:
+.. _Vektorielle Größen:
 .. _Skalare und vektorielle Größen:
 
 .. rubric:: Skalare und vektorielle Größen
@@ -196,7 +197,10 @@ Einheit wird üblicherweise nicht explizit geschrieben).
 Manche physikalische Größen, beispielsweise Masse und Temperatur, haben keine
 räumliche Vorzugsrichtung, ihre Wirkung ist also in allen Richtungen des Raumes
 gleich. Durch die Angabe *eines* Zahlenwerts und der zugehörigen Maßeinheit
-werden solche so genannten "skalaren" Größen hinreichend beschrieben.
+werden solche so genannten "skalaren" Größen hinreichend beschrieben. 
+
+Skalare Größen sind beispielsweise Masse, Temperatur, Volumen, elektrische
+Ladung, und andere.
 
 Andere physikalische Größen, beispielsweise Kraft und Geschwindigkeit, besitzen
 stets eine eindeutige Richtung im Raum. In Zeichnungen werden derartige Größen
@@ -206,11 +210,9 @@ sind letztlich auch *drei* Zahlenwerte und die zugehörige Maßeinheit nötig, u
 die physikalische Wirkung dieser so genannten "vektoriellen" Größen in die
 jeweiligen Raumrichtungen hinreichend zu beschreiben. [#]_
 
-.. Skalare:
-.. Volumen, Elektrische Ladung, Fläche, Länge
+Vektorielle Größen sind beispielsweise Kraft, Beschleunigung, Geschwindigkeit,
+und andere.
 
-.. Vektoren:
-.. Ort, Geschwindigkeit, Beschleunigung, Kraft, Magnetfeld, Elektrisches Feld
 
 .. index:: SI-Einheiten
 .. _SI-Einheiten:
@@ -373,7 +375,7 @@ sind in der folgenden Tabelle aufgelistet.
       - :math:`0,000\,001`
       - :math:`1 \cdot 10^{-6}`
     * - Nano
-      - :math:`\unit{n}`
+      - :math:`uniti{n}`
       - :math:`0,000\,000\,001`
       - :math:`1 \cdot 10^{-9}`
     * - Piko
@@ -390,7 +392,7 @@ sind in der folgenden Tabelle aufgelistet.
       - :math:`1 \cdot 10^{-18}`
 
 Ein wesentlicher Vorteil von Zehnerpotenzen liegt darin, dass sie sich aufgrund
-der Beziehung :math:`a^b \cdot a^c = a^{b \cdot c}` einfach miteinander
+der Beziehung :math:`a^b \cdot a^c = a^{b + c}` einfach miteinander
 verrechnen lassen. Um beispielsweise eine Längenangabe von Dezimeter
 :math:`(\unit{dm} = \unit[10^{-1}]{m})` in Millimeter :math:`(\unit{mm} =
 \unit[10^{-3}]{m})` umzurechnen, genügt es, den jeweiligen Zahlenwert mit
@@ -409,7 +411,7 @@ Vorfaktor.
 
 *Beispiele:*
 
-* Wieviel Quadrat-Millimetern entspricht ein Quadrat-Meter?
+* Wie viele Quadrat-Millimeter entsprechen einem Quadrat-Meter?
 
   Für die Umrechnung zwischen :math:`\unit{m}` und :math:`\unit{mm}` gilt:
 
@@ -473,10 +475,10 @@ zufälligen ("statistischen") Messfehlern:
   beispielsweise die Skala eines Lineal bei :math:`\unit[1]{mm}` statt
   :math:`\unit[0]{mm}` beginnt).
 
-* *Statistische* Fehler lassen sich auf Schwankungen der zu
-  messenden Größe bei punktuellen Messungen mit Messfühlern, Messverzögerungen
-  sowie Ablese-Ungenauigkeiten (bei nicht-digitalen Anzeigen) beziehungsweise
-  ungenaue elektronische Sensoren (bei digitalen Messgeräten) zurückführen.
+* *Statistische* Fehler lassen sich auf Schwankungen der zu messenden Größe bei
+  punktuellen Messungen mit Messfühlern, Messverzögerungen sowie
+  Ablese-Ungenauigkeiten (bei nicht-digitalen Anzeigen) beziehungsweise ungenaue
+  elektronische Sensoren (bei digitalen Messgeräten) zurückführen.
 
 Für jede einzelne Messung gilt also:
 
@@ -491,8 +493,6 @@ oder kürzer:
 
     \boxed{\text{Messwert} = \text{Tats\"{a}chlicher Wert} \pm \text{Fehler}}
 
-.. Die einzelnen Messwerte streuen um einen Mittelwert.
-.. Temperaturschwankungen, Auslösen und Stoppen einer Stoppuhr, ...
 
 .. Quelle: Erdmann ExpPhys5, S.2
 
@@ -501,9 +501,6 @@ Wahrscheinlichkeitsaussage dar. Üblicherweise wird damit gemeint, dass sich der
 tatsächliche Wert mit einer Wahrscheinlichkeit von :math:`68\%` innerhalb des
 Intervalls :math:`[\text{Messwert} - \text{Fehler};\; \text{Messwert} +
 \text{Fehler}]` befindet.
-
-.. Erneute (ungenaue) Messung ist also mit Wahrscheinlichkeit von 68\% wieder in diesem
-.. Bereich (Fehlerintervall).
 
 Systematische Fehler treten bei jeder Messung erneut auf; sie können durch
 geschickte experimentelle Methoden minimiert und teilweise sogar komplett

@@ -1,3 +1,4 @@
+.. _Elektrisches Feld:
 .. _Elektrische Felder:
 
 Elektrische Felder
@@ -503,13 +504,17 @@ gespeichert.
 .. Energiedichte: Gespeicherte Energie je Volumen = 1/2 * \varepsilon_0 \cdot
 .. \varepsilon_r \cdot E^2
 
-Der Milikan-Versuch
--------------------
+.. index:: Millikan-Experiment
+
+.. _Das Millikan-Experiment:
+
+Das Millikan-Experiment
+-----------------------
 
 Im Jahr 1910 konnte `Robert Millikan
 <https://de.wikipedia.org/wiki/Robert_Andrews_Millikan>`_ erstmals mittels eines
 Plattenkondensators die Größe der Elementarladung :math:`e` experimentell
-bestimmen. Die Grundidee seines Versuchs war es, mittels eines Zerstäubers
+bestimmen. Die Grundidee seines Experiments war es, mittels eines Zerstäubers
 winzige, durch Reibungseffekte zumindest teilweise elektrisch geladene
 Öltröpfchen zwischen die Platten des Kondensators zu bringen.
 
@@ -613,6 +618,7 @@ Vielfache einer "Elementarladung" waren. Er bestimmte den Wert dieser Ladung zu
 :math:`\unit[1,592 \cdot 10^{-19}]{C}`, was mit dem heute bekannten Wert von
 :math:`q_{\mathrm{e}}=\unit[1,602 \cdot 10^{-19}]{C}` bereits sehr gut
 übereinstimmte.
+
 
 .. _Bewegung von geladenen Teilchen in elektrischen Feldern:
 
@@ -843,7 +849,6 @@ zweier Spannungssignale auf einem Schirm sichtbar zu machen.
     des Vorgangs als konstant angesehen werden.
 
 .. index:: Ionisierungsenergie
-.. _Ionisierungsenergie:
 
 .. [#] Auch die Bindungsenergien der Elektronen an den Atomkern werden in
     Elektronenvolt angegeben. Beispielsweise genügt bei den meisten chemischen

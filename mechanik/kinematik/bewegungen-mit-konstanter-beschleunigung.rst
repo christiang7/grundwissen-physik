@@ -1,4 +1,6 @@
 
+.. index:: Beschleunigung
+.. _Beschleunigung:
 .. _Bewegung mit konstanter Beschleunigung:
 .. _Bewegungen mit konstanter Beschleunigung:
 
@@ -159,10 +161,11 @@ für die Steigung des Graphen) :math:`\Delta v < 0` gilt.
 .. .. rubric:: Beschleunigung und Wegstrecke (ohne Anfangsgeschwindigkeit)
 
 Zeichnet man in ein :math:`s(t)`-Diagramm die zurückgelegte Wegstrecke in
-Abhängigkeit von der Zeit ein, so hat der Graph bei einer beschleunigten Bewegung
-:math:`(a \ne 0)` ein parabelförmigen Verlauf. Die konkrete Form der Parabel
-hängt von der Anfangsgeschwindigkeit :math:`v_0` und der anfänglichen Entfernung
-:math:`s_0` des Objekts vom Beobachter (Koordinatenursprung) ab.
+Abhängigkeit von der Zeit ein, so hat der Graph bei einer beschleunigten
+Bewegung :math:`(a \ne 0)` ein parabelförmigen Verlauf. Die konkrete Form der
+:ref:`Parabel <gwm:Parabel>` hängt von der Anfangsgeschwindigkeit :math:`v_0`
+und der anfänglichen Entfernung :math:`s_0` des Objekts vom Beobachter
+(Koordinatenursprung) ab.
 
 .. Eine anfängliche Entfernung :math:`s_0` des sich bewegenden
 .. Objekts vom Beobachter hat lediglich eine senkrechte Verschiebung der

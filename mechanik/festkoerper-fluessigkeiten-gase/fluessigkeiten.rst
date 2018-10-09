@@ -1019,7 +1019,7 @@ hin zu.
 Für laminare Strömungen eines Fluids durch ein Rohr mit einem Radius :math:`r`
 und einer Länge :math:`l` haben `Gotthilf Hagen
 <https://de.wikipedia.org/wiki/Gotthilf_Heinrich_Ludwig_Hagen>`_ und `Jean
-Poiseuille <https://de.wikipedia.org/wiki/Jean_Léonard_Marie_Poiseuille>`_
+Poiseuille <https://de.wikipedia.org/wiki/Jean_L%C3%A9onard_Marie_Poiseuille>`_
 folgende Formel entdeckt, die auch die Viskosität :math:`\eta` der Flüssigkeit
 berücksichtigt:
 
@@ -1251,6 +1251,7 @@ und zur Entstehung von Thrombosen führen.
 ..     Relativgeschwindigkeiten oftmals größer.
 
 .. _Kohäsionskraft:
+.. _Kohäsionskräfte:
 .. _Oberflächenspannung und Kapillarität:
 
 Oberflächenspannung und Kapillarität

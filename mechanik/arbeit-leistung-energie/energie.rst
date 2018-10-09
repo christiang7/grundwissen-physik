@@ -55,7 +55,10 @@ Arten mechanischer Energie
 
 Bei mechanischen Prozessen treten folgende Arten mechanischer Energie auf: [#]_
 
-.. index:: Potentielle Energie, Energieformen; Potentielle Energie ("Höhenenergie")
+.. index::
+    single: Energieformen; Potentielle Energie ("Höhenenergie")
+    single: Potentielle Energie
+    single: Höhenenergie
 .. _Potentielle Energie:
 .. _Höhenenergie:
 
@@ -118,6 +121,7 @@ elastischen Prozess handelt, quadratisch mit der Verformung des Körpers zu.
 
 .. index::
     single: Energieformen; Kinetische Energie ("Bewegungsenergie")
+    single: Bewegungsenergie
     single: Kinetische Energie
 .. _Kinetische Energie:
 
@@ -193,9 +197,19 @@ Bei rein mechanischen Vorgängen bleibt die Summe der mechanischen Energien
     | sondern stets nur von einer Form in andere
     | umgewandelt werden."
 
+*Beispiel:*
+
+* Bei einem schwingenden Pendel findet auf dem Weg von der maximalen Auslenkung
+  zur Ruhelage eine kontinuierliche Umwandlung von Höhenenergie in
+  Bewegungsenergie und umgekehrt statt; umgekehrt findet eine kontinuierliche
+  Umwandlung von Bewegungsenergie in Höhenenergie statt, wenn sich der
+  Pendelkörper vom Durchgang durch die Ruhelage in Richtung der maximalen
+  Auslenkung bewegt. Ohne Luftwiderstand und Reibung setzen sich diese
+  Energie-Umwandlungen beliebig oft fort.
 
 In der Praxis treten allerdings in der Regel nicht zu vernachlässigende
-Reibungseffekte auf, die mechanische Energie in Wärme umwandeln. [#]_
+Reibungseffekte auf, die mechanische Energie in :ref:`Wärme <Wärme>` umwandeln;
+diese Energieform zählt allerdings nicht zu den mechanischen Energieformen. [#]_
 
 
 .. raw:: html
@@ -214,8 +228,8 @@ Reibungseffekte auf, die mechanische Energie in Wärme umwandeln. [#]_
     Anheben eines Gegenstands auf ein anderes Energie-Niveau nötig ist.
 
 .. [#] Diese für den weiteren mechanischen Prozess "verloren gegangene" Energie
-    ist dann gleich der verrichteten Reibungsarbeit :math:`W_{\mathrm{R}} =
-    F_{\mathrm{R}} \cdot s`.
+    ist dann gleich der verrichteten :ref:`Reibungsarbeit <Reibungsarbeit>`
+    :math:`W_{\mathrm{R}} = F_{\mathrm{R}} \cdot s`.
 
 .. raw:: html
 

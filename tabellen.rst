@@ -1063,373 +1063,380 @@ Materialabhängige Größen
 .. _Tabelle Thermische Eigenschaften:
 .. _Tabelle Thermische Eigenschaften Festkörper:
 
-.. only:: html
-
-    .. list-table:: Thermische Eigenschaften von Festkörpern
-        :name: tab-eigenschaften-von-festkoerpern
-        :widths: 50 50 50 50 50 50
-
-        * - Material
-          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Längen-Ausdehnungskoeffizient :math:`\alpha` in :math:`\unit[10 ^{-6}]{\frac{1}{K}}`
-          - Spezifische Wärmekapazität :math:`c` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
-          - Spezifische Schmelzwärme :math:`q _{\rm{s}}` in :math:`\unit[]{\frac{kJ}{kg}}`
-        * - Aluminium
-          - :math:`660`
-          - :math:`2450`
-          - :math:`23,1`
-          - :math:`0,90`
-          - :math:`397`
-        * - Beton
-          - ---
-          - ---
-          - :math:`12,0`
-          - :math:`0,84`
-          - ---
-        * - Blei
-          - :math:`327`
-          - :math:`1750`
-          - :math:`29,0`
-          - :math:`0,13`
-          - :math:`23,0`
-        * - Diamant
-          - :math:`3540`
-          - :math:`4830`
-          - :math:`1,3`
-          - :math:`0,50`
-          - ---
-        * - Eisen
-          - :math:`1535`
-          - :math:`2735`
-          - :math:`11,8`
-          - :math:`0,45`
-          - :math:`277`
-        * - Glas (Quarz)
-          - :math:`1700`
-          - ---
-          - :math:`0,5`
-          - :math:`0,73`
-          - ---
-        * - Gold
-          - :math:`1063`
-          - :math:`2700`
-          - :math:`14,3`
-          - :math:`0,13`
-          - :math:`65,7`
-        * - Graphit
-          - :math:`3650`
-          - :math:`4830`
-          - :math:`7,9`
-          - :math:`0,71`
-          -
-        * - Holz (Eiche)
-          - ---
-          - ---
-          - :math:`\text{Ca. } 8`
-          - :math:`2,4`
-          - ---
-        * - Kupfer
-          - :math:`1083`
-          - :math:`2590`
-          - :math:`16,5`
-          - :math:`0,38`
-          - :math:`184`
-        * - Magnesium
-          - :math:`650`
-          - :math:`1110`
-          - :math:`26,0`
-          - :math:`1,02`
-          - :math:`368`
-        * - Platin
-          - :math:`1769`
-          - :math:`4300`
-          - :math:`9,0`
-          - :math:`0,13`
-          - :math:`111`
-        * - Porzellan
-          - ---
-          - ---
-          - :math:`3 \text{ bis } 4`
-          - :math:`0,84`
-          - ---
-        * - Silber
-          - :math:`961`
-          - :math:`2180`
-          - :math:`18,9`
-          - :math:`0,24`
-          - :math:`105`
-        * - Silicium
-          - :math:`1420`
-          - :math:`2355`
-          - :math:`2,6`
-          - :math:`0,70`
-          - :math:`164`
-        * - Wolfram
-          - :math:`3380`
-          - :math:`5500`
-          - :math:`4,5`
-          - :math:`0,13`
-          - :math:`192`
-        * - Zinn
-          - :math:`232`
-          - :math:`2690`
-          - :math:`22,0`
-          - :math:`0,23`
-          - :math:`59,6`
+.. .. only:: html
 
 .. raw:: latex
 
-    % \newgeometry{left=1cm, right=1cm, top=2.5cm, bottom=2.5cm}
-    \label{tab-eigenschaften-von-festkoerpern}
-    %\vspace*{1cm}
-    {\centering
-    \begin{tabulary}{\linewidth}{|l|C|C|C|C|C|} \hline
+    \hyphenation{Schmelz-tem-pe-ra-tur Sie-de-tem-pe-ra-tur
+    Längen-Aus-deh-nungs-ko-ef-fi-zient Spe-zi-fi-sche Wär-me-ka-pa-zi-tät
+    Schmelz-wär-me}
 
-    Material
-    &
-    Schmelztemperatur $T_{\mathrm{S}}$ in $\unit{\degree C}$ (bei $\unit[101,3]{kPa}$)
-    &
-    Siedetemperatur $T_{\mathrm{V}}$ in $\unit{\degree C}$ (bei $\unit[101,3]{kPa}$)
-    &
-    Längen-Ausdehnungs-koeffizient $\alpha$ in $\unit[10^{-6}]{\frac{1}{K}}$
-    &
-    Spezifische Wärmekapazität $c$ in $\unit{\frac{kJ}{kg \cdot K}}$
-    &
-    Spezifische Schmelzwärme $q_{\mathrm{s}}$ in $\unit{\frac{kJ}{kg}}$ \\
+.. list-table:: Thermische Eigenschaften von Festkörpern
+    :name: tab-eigenschaften-von-festkoerpern
+    :widths: 51 51 51 49 49 49
 
-    Aluminium    & $660$  & $2450$ & $23,1$             & $0,90$ & $397$ \\
-    Beton        & ---      & ---      & $12,0$             & $0,84$ & --- \\
-    Blei         & $327$  & $1750$ & $29,0$             & $0,13$ & $23,0$ \\
-    Diamant      & $3540$ & $4830$ & $1,3$              & $0,50$ & --- \\
-    Eisen        & $1535$ & $2735$ & $11,8$             & $0,45$ & $277$ \\
-    Glas (Quarz) & $1700$ & ---      & $0,5$              & $0,73$ & --- \\
-    Gold         & $1063$ & $2700$ & $14,3$             & $0,13$ & $65,7$ \\
-    Graphit      & $3650$ & $4830$ & $7,9$              & $0,71$ & --- \\
-    Holz (Eiche) & ---      & ---      & $\text{Ca. } 8$    & $2,4$  & --- \\
-    Kupfer       & $1083$ & $2590$ & $16,5$             & $0,38$ & $184$ \\
-    Magnesium    & $650$  & $1110$ & $26,0$             & $1,02$ & $368$ \\
-    Platin       & $1769$ & $4300$ & $9,0$              & $0,13$ & $111$ \\
-    Porzellan    & ---      & ---      & $3 \text{ bis } 4$ & $0,84$ & --- \\
-    Silber       & $961$  & $2180$ & $18,9$             & $0,24$ & $105$ \\
-    Silicium     & $1420$ & $2355$ & $2,6$              & $0,70$ & $164$ \\
-    Wolfram      & $3380$ & $5500$ & $4,5$              & $0,13$ & $192$ \\
-    Zinn         & $232$  & $2690$ & $22,0$             & $0,23$ & $59,6$ \\
+    * - Material
+      - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+      - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+      - Längen-Ausdehnungskoeffizient :math:`\alpha` in :math:`\unit[10 ^{-6}]{\frac{1}{K}}`
+      - Spezifische Wärmekapazität :math:`c` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
+      - Spezifische Schmelzwärme :math:`q _{\rm{s}}` in :math:`\unit[]{\frac{kJ}{kg}}`
+    * - Aluminium
+      - :math:`660`
+      - :math:`2450`
+      - :math:`23,1`
+      - :math:`0,90`
+      - :math:`397`
+    * - Beton
+      - ---
+      - ---
+      - :math:`12,0`
+      - :math:`0,84`
+      - ---
+    * - Blei
+      - :math:`327`
+      - :math:`1750`
+      - :math:`29,0`
+      - :math:`0,13`
+      - :math:`23,0`
+    * - Diamant
+      - :math:`3540`
+      - :math:`4830`
+      - :math:`1,3`
+      - :math:`0,50`
+      - ---
+    * - Eisen
+      - :math:`1535`
+      - :math:`2735`
+      - :math:`11,8`
+      - :math:`0,45`
+      - :math:`277`
+    * - Glas (Quarz)
+      - :math:`1700`
+      - ---
+      - :math:`0,5`
+      - :math:`0,73`
+      - ---
+    * - Gold
+      - :math:`1063`
+      - :math:`2700`
+      - :math:`14,3`
+      - :math:`0,13`
+      - :math:`65,7`
+    * - Graphit
+      - :math:`3650`
+      - :math:`4830`
+      - :math:`7,9`
+      - :math:`0,71`
+      -
+    * - Holz (Eiche)
+      - ---
+      - ---
+      - :math:`\text{Ca. } 8`
+      - :math:`2,4`
+      - ---
+    * - Kupfer
+      - :math:`1083`
+      - :math:`2590`
+      - :math:`16,5`
+      - :math:`0,38`
+      - :math:`184`
+    * - Magnesium
+      - :math:`650`
+      - :math:`1110`
+      - :math:`26,0`
+      - :math:`1,02`
+      - :math:`368`
+    * - Platin
+      - :math:`1769`
+      - :math:`4300`
+      - :math:`9,0`
+      - :math:`0,13`
+      - :math:`111`
+    * - Porzellan
+      - ---
+      - ---
+      - :math:`3 \text{ bis } 4`
+      - :math:`0,84`
+      - ---
+    * - Silber
+      - :math:`961`
+      - :math:`2180`
+      - :math:`18,9`
+      - :math:`0,24`
+      - :math:`105`
+    * - Silicium
+      - :math:`1420`
+      - :math:`2355`
+      - :math:`2,6`
+      - :math:`0,70`
+      - :math:`164`
+    * - Wolfram
+      - :math:`3380`
+      - :math:`5500`
+      - :math:`4,5`
+      - :math:`0,13`
+      - :math:`192`
+    * - Zinn
+      - :math:`232`
+      - :math:`2690`
+      - :math:`22,0`
+      - :math:`0,23`
+      - :math:`59,6`
 
-    \hline
-    \end{tabulary}
-    }
+.. .. raw:: latex
 
+..     % \newgeometry{left=1cm, right=1cm, top=2.5cm, bottom=2.5cm}
+..     \label{tab-eigenschaften-von-festkoerpern}
+..     %\vspace*{1cm}
+..     {\centering
+..     \begin{tabulary}{\linewidth}{|l|C|C|C|C|C|} \hline
+
+..     Material
+..     &
+..     Schmelztemperatur $T_{\mathrm{S}}$ in $\unit{\degree C}$ (bei $\unit[101,3]{kPa}$)
+..     &
+..     Siedetemperatur $T_{\mathrm{V}}$ in $\unit{\degree C}$ (bei $\unit[101,3]{kPa}$)
+..     &
+..     Längen-Ausdehnungs-koeffizient $\alpha$ in $\unit[10^{-6}]{\frac{1}{K}}$
+..     &
+..     Spezifische Wärmekapazität $c$ in $\unit{\frac{kJ}{kg \cdot K}}$
+..     &
+..     Spezifische Schmelzwärme $q_{\mathrm{s}}$ in $\unit{\frac{kJ}{kg}}$ \\
+
+..     Aluminium    & $660$  & $2450$ & $23,1$             & $0,90$ & $397$ \\
+..     Beton        & ---      & ---      & $12,0$             & $0,84$ & --- \\
+..     Blei         & $327$  & $1750$ & $29,0$             & $0,13$ & $23,0$ \\
+..     Diamant      & $3540$ & $4830$ & $1,3$              & $0,50$ & --- \\
+..     Eisen        & $1535$ & $2735$ & $11,8$             & $0,45$ & $277$ \\
+..     Glas (Quarz) & $1700$ & ---      & $0,5$              & $0,73$ & --- \\
+..     Gold         & $1063$ & $2700$ & $14,3$             & $0,13$ & $65,7$ \\
+..     Graphit      & $3650$ & $4830$ & $7,9$              & $0,71$ & --- \\
+..     Holz (Eiche) & ---      & ---      & $\text{Ca. } 8$    & $2,4$  & --- \\
+..     Kupfer       & $1083$ & $2590$ & $16,5$             & $0,38$ & $184$ \\
+..     Magnesium    & $650$  & $1110$ & $26,0$             & $1,02$ & $368$ \\
+..     Platin       & $1769$ & $4300$ & $9,0$              & $0,13$ & $111$ \\
+..     Porzellan    & ---      & ---      & $3 \text{ bis } 4$ & $0,84$ & --- \\
+..     Silber       & $961$  & $2180$ & $18,9$             & $0,24$ & $105$ \\
+..     Silicium     & $1420$ & $2355$ & $2,6$              & $0,70$ & $164$ \\
+..     Wolfram      & $3380$ & $5500$ & $4,5$              & $0,13$ & $192$ \\
+..     Zinn         & $232$  & $2690$ & $22,0$             & $0,23$ & $59,6$ \\
+
+..     \hline
+..     \end{tabulary}
+..     }
+
+.. .
 
 .. _Tabelle Thermische Eigenschaften Flüssigkeiten:
 
-.. only:: html
+.. .. only:: html
 
-    .. list-table:: Thermische Eigenschaften von Flüssigkeiten
-        :name: tab-eigenschaften-von-fluessigkeiten
-        :widths: 50 50 50 50 50 50
+.. list-table:: Thermische Eigenschaften von Flüssigkeiten
+    :name: tab-eigenschaften-von-fluessigkeiten
+    :widths: 51 51 51 49 49 49
 
-        * - Material
-          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Volumen-Ausdehnungskoeffizient :math:`\gamma` in :math:`\unit[10 ^{-3}]{\frac{1}{K}}`
-          - Spezifische Wärmekapazität :math:`c` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
-          - Spezifische Verdampfungswärme :math:`q _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg}}`
-        * - Azeton
-          - :math:`-95`
-          - :math:`56,3`
-          - :math:`1,46`
-          - :math:`2,16`
-          - :math:`525`
-        * - Benzol
-          - :math:`+5,5`
-          - :math:`80,1`
-          - :math:`1,24`
-          - :math:`2,05`
-          - :math:`394`
-        * - Brom
-          - :math:`-7,2`
-          - :math:`58,8`
-          - :math:`1,13`
-          - :math:`0,46`
-          - :math:`183`
-        * - Ethanol
-          - :math:`-114`
-          - :math:`78,3`
-          - :math:`1,40`
-          - :math:`2,43`
-          - :math:`840`
-        * - Glycerin
-          - :math:`18,4`
-          - :math:`291`
-          - :math:`0,52`
-          - :math:`2,39`
-          - :math:`825`
-        * - Methanol
-          - :math:`-98`
-          - :math:`64,6`
-          - :math:`1,20`
-          - :math:`2,50`
-          - :math:`1100`
-        * - Olivenöl (nativ)
-          - :math:`\text{Ca.}-\!7`
-          - :math:`\text{Ca. }180`
-          - :math:`1,14`
-          - :math:`1,97`
-          -
-        * - Petroleum
-          - :math:`\text{Ca.}-\!35`
-          - :math:`\text{Ca. }200`
-          - :math:`0,96`
-          - :math:`2,14`
-          -
-        * - Quecksilber
-          - :math:`-38,9`
-          - :math:`357`
-          - :math:`0,18`
-          - :math:`0,14`
-          - :math:`285`
-        * - Wasser
-          - :math:`0`
-          - :math:`100`
-          - :math:`0,21`
-          - :math:`4,18`
-          - :math:`2257`
+    * - Material
+      - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+      - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+      - Volumen-Ausdehnungskoeffizient :math:`\gamma` in :math:`\unit[10 ^{-3}]{\frac{1}{K}}`
+      - Spezifische Wärmekapazität :math:`c` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
+      - Spezifische Verdampfungswärme :math:`q _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg}}`
+    * - Azeton
+      - :math:`-95`
+      - :math:`56,3`
+      - :math:`1,46`
+      - :math:`2,16`
+      - :math:`525`
+    * - Benzol
+      - :math:`+5,5`
+      - :math:`80,1`
+      - :math:`1,24`
+      - :math:`2,05`
+      - :math:`394`
+    * - Brom
+      - :math:`-7,2`
+      - :math:`58,8`
+      - :math:`1,13`
+      - :math:`0,46`
+      - :math:`183`
+    * - Ethanol
+      - :math:`-114`
+      - :math:`78,3`
+      - :math:`1,40`
+      - :math:`2,43`
+      - :math:`840`
+    * - Glycerin
+      - :math:`18,4`
+      - :math:`291`
+      - :math:`0,52`
+      - :math:`2,39`
+      - :math:`825`
+    * - Methanol
+      - :math:`-98`
+      - :math:`64,6`
+      - :math:`1,20`
+      - :math:`2,50`
+      - :math:`1100`
+    * - Olivenöl (nativ)
+      - :math:`\text{Ca.}-\!7`
+      - :math:`\text{Ca. }180`
+      - :math:`1,14`
+      - :math:`1,97`
+      -
+    * - Petroleum
+      - :math:`\text{Ca.}-\!35`
+      - :math:`\text{Ca. }200`
+      - :math:`0,96`
+      - :math:`2,14`
+      -
+    * - Quecksilber
+      - :math:`-38,9`
+      - :math:`357`
+      - :math:`0,18`
+      - :math:`0,14`
+      - :math:`285`
+    * - Wasser
+      - :math:`0`
+      - :math:`100`
+      - :math:`0,21`
+      - :math:`4,18`
+      - :math:`2257`
 
-.. raw:: latex
+.. .. raw:: latex
 
-    {\centering
-    \begin{tabulary}{\linewidth}{|l|C|C|C|C|C|}
-    \hline
+..     {\centering
+..     \begin{tabulary}{\linewidth}{|l|C|C|C|C|C|}
+..     \hline
 
-    Material
-    &
-    Schmelztemperatur $T _{\rm{S}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
-    &
-    Siedetemperatur $T _{\rm{V}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
-    &
-    Volumen-Ausdehnungs-koeffizient $\gamma$ in $\unit[10 ^{-3}]{\frac{1}{K}}$
-    &
-    Spezifische Wärmekapazität $c$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
-    &
-    Spezifische Verdampfungswärme $q _{\rm{v}}$ in $\unit[]{\frac{kJ}{kg}}$ \\
+..     Material
+..     &
+..     Schmelztemperatur $T _{\rm{S}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+..     &
+..     Siedetemperatur $T _{\rm{V}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+..     &
+..     Volumen-Ausdehnungs-koeffizient $\gamma$ in $\unit[10 ^{-3}]{\frac{1}{K}}$
+..     &
+..     Spezifische Wärmekapazität $c$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
+..     &
+..     Spezifische Verdampfungswärme $q _{\rm{v}}$ in $\unit[]{\frac{kJ}{kg}}$ \\
 
-    Azeton           & $-95$             & $56,3$           & $1,46$ & $2,16$ & $525$ \\
-    Benzol           & $+5,5$            & $80,1$           & $1,24$ & $2,05$ & $394$ \\
-    Brom             & $-7,2$            & $58,8$           & $1,13$ & $0,46$ & $183$ \\
-    Ethanol          & $-114$            & $78,3$           & $1,40$ & $2,43$ & $840$ \\
-    Glycerin         & $18,4$            & $291$            & $0,52$ & $2,39$ & $825$ \\
-    Methanol         & $-98$             & $64,6$           & $1,20$ & $2,50$ & $1100$ \\
-    Olivenöl (nativ) & $\text{Ca.}-\!7$  & $\text{Ca. }180$ & $1,14$ & $1,97$ & \\
-    Petroleum        & $\text{Ca.}-\!35$ & $\text{Ca. }200$ & $0,96$ & $2,14$ & \\
-    Quecksilber      & $-38,9$           & $357$            & $0,18$ & $0,14$ & $285$ \\
-    Wasser           & $0$               & $100$            & $0,21$ & $4,18$ & $2257$ \\
+..     Azeton           & $-95$             & $56,3$           & $1,46$ & $2,16$ & $525$ \\
+..     Benzol           & $+5,5$            & $80,1$           & $1,24$ & $2,05$ & $394$ \\
+..     Brom             & $-7,2$            & $58,8$           & $1,13$ & $0,46$ & $183$ \\
+..     Ethanol          & $-114$            & $78,3$           & $1,40$ & $2,43$ & $840$ \\
+..     Glycerin         & $18,4$            & $291$            & $0,52$ & $2,39$ & $825$ \\
+..     Methanol         & $-98$             & $64,6$           & $1,20$ & $2,50$ & $1100$ \\
+..     Olivenöl (nativ) & $\text{Ca.}-\!7$  & $\text{Ca. }180$ & $1,14$ & $1,97$ & \\
+..     Petroleum        & $\text{Ca.}-\!35$ & $\text{Ca. }200$ & $0,96$ & $2,14$ & \\
+..     Quecksilber      & $-38,9$           & $357$            & $0,18$ & $0,14$ & $285$ \\
+..     Wasser           & $0$               & $100$            & $0,21$ & $4,18$ & $2257$ \\
 
-    \hline
-    \end{tabulary}
-    }
+..     \hline
+..     \end{tabulary}
+..     }
 
 .. _Tabelle Thermische Eigenschaften Gase:
 
-.. only:: html
+.. .. only:: html
 
-    .. list-table:: Thermische Eigenschaften von Gasen
-        :name: tab-eigenschaften-von-gasen
-        :widths: 50 50 50 50 50 50
+.. list-table:: Thermische Eigenschaften von Gasen
+    :name: tab-eigenschaften-von-gasen
+    :widths: 51 51 51 49 49 49
 
-        * - Material
-          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Spezifische Wärmekapazität :math:`c _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
-          - Spezifische Wärmekapazität :math:`c _{\rm{p}}` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
-          - Spezifische Verdampfungswärme :math:`q _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg}}`
-        * - Ammoniak
-          - :math:`-77,7`
-          - :math:`-33,4`
-          - :math:`1,65`
-          - :math:`2,16`
-          - :math:`1370`
-        * - Chlor
-          - :math:`-101`
-          - :math:`-34,1`
-          - :math:`0,55`
-          - :math:`0,74`
-          - :math:`290`
-        * - Helium
-          - :math:`-271`
-          - :math:`-269`
-          - :math:`3,21`
-          - :math:`5,23`
-          - :math:`20,6`
-        * - Kohlenstoffdioxid
-          - :math:`-56,6` (bei :math:`p=\unit[0,53]{MPa}`)
-          - :math:`-78,5` (Sublimationspunkt)
-          - :math:`0,65`
-          - :math:`0,84`
-          - :math:`574`
-        * - Methan
-          - :math:`-183`
-          - :math:`-162`
-          - :math:`1,70`
-          - :math:`2,22`
-          - :math:`510`
-        * - Ozon
-          - :math:`-193`
-          - :math:`-113`
-          - :math:`0,57`
-          - :math:`0,79`
-          - :math:`316`
-        * - Propan
-          - :math:`-190`
-          - :math:`-42,1`
-          - :math:`1,41`
-          - :math:`1,59`
-          - :math:`426`
-        * - Wasserstoff
-          - :math:`-259`
-          - :math:`-252,8`
-          - :math:`10,17`
-          - :math:`14,32`
-          - :math:`461`
-        * - Xenon
-          - :math:`-112`
-          - :math:`-108`
-          - :math:`0,16`
-          - :math:`0,21`
-          - :math:`96`
+    * - Material
+      - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+      - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+      - Spezifische Wärmekapazität :math:`c _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
+      - Spezifische Wärmekapazität :math:`c _{\rm{p}}` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
+      - Spezifische Verdampfungswärme :math:`q _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg}}`
+    * - Ammoniak
+      - :math:`-77,7`
+      - :math:`-33,4`
+      - :math:`1,65`
+      - :math:`2,16`
+      - :math:`1370`
+    * - Chlor
+      - :math:`-101`
+      - :math:`-34,1`
+      - :math:`0,55`
+      - :math:`0,74`
+      - :math:`290`
+    * - Helium
+      - :math:`-271`
+      - :math:`-269`
+      - :math:`3,21`
+      - :math:`5,23`
+      - :math:`20,6`
+    * - Kohlenstoffdioxid
+      - :math:`-56,6` (bei :math:`p=\unit[0,53]{MPa}`)
+      - :math:`-78,5` (Sublimationspunkt)
+      - :math:`0,65`
+      - :math:`0,84`
+      - :math:`574`
+    * - Methan
+      - :math:`-183`
+      - :math:`-162`
+      - :math:`1,70`
+      - :math:`2,22`
+      - :math:`510`
+    * - Ozon
+      - :math:`-193`
+      - :math:`-113`
+      - :math:`0,57`
+      - :math:`0,79`
+      - :math:`316`
+    * - Propan
+      - :math:`-190`
+      - :math:`-42,1`
+      - :math:`1,41`
+      - :math:`1,59`
+      - :math:`426`
+    * - Wasserstoff
+      - :math:`-259`
+      - :math:`-252,8`
+      - :math:`10,17`
+      - :math:`14,32`
+      - :math:`461`
+    * - Xenon
+      - :math:`-112`
+      - :math:`-108`
+      - :math:`0,16`
+      - :math:`0,21`
+      - :math:`96`
 
-.. raw:: latex
+.. .. raw:: latex
 
-    {\centering \begin{tabulary}{\linewidth}{|l|C|C|C|C|C|}
-    \hline
+..     {\centering \begin{tabulary}{\linewidth}{|l|C|C|C|C|C|}
+..     \hline
 
-    Material
-    &
-    Schmelztemperatur $T_{\rm{S}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
-    &
-    Siedetemperatur $T_{\rm{V}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
-    &
-    Spezifische Wärmekapazität $c_{\rm{v}}$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
-    &
-    Spezifische Wärmekapazität $c_{\rm{p}}$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
-    &
-    Spezifische Verdampfungswärme $q_{\rm{v}}$ in $\unit[]{\frac{kJ}{kg}}$ \\
+..     Material
+..     &
+..     Schmelztemperatur $T_{\rm{S}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+..     &
+..     Siedetemperatur $T_{\rm{V}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+..     &
+..     Spezifische Wärmekapazität $c_{\rm{v}}$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
+..     &
+..     Spezifische Wärmekapazität $c_{\rm{p}}$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
+..     &
+..     Spezifische Verdampfungswärme $q_{\rm{v}}$ in $\unit[]{\frac{kJ}{kg}}$ \\
 
-    Ammoniak          & $-77,7$                            & $-33,4$                     & $1,65$  & $2,16$  & $1370$ \\
-    Chlor             & $-101$                             & $-34,1$                     & $0,55$  & $0,74$  & $290$ \\
-    Helium            & $-271$                             & $-269$                      & $3,21$  & $5,23$  & $20,6$ \\
-    Kohlenstoffdioxid & $-56,6$ (bei $p=\unit[0,53]{MPa}$) & $-78,5$ (Sublimationspunkt) & $0,65$  & $0,84$  & $574$ \\
-    Methan            & $-183$                             & $-162$                      & $1,70$  & $2,22$  & $510$ \\
-    Ozon              & $-193$                             & $-113$                      & $0,57$  & $0,79$  & $316$ \\
-    Propan            & $-190$                             & $-42,1$                     & $1,41$  & $1,59$  & $426$ \\
-    Wasserstoff       & $-259$                             & $-252,8$                    & $10,17$ & $14,32$ & $461$ \\
-    Xenon             & $-112$                             & $-108$                      & $0,16$  & $0,21$  & $96$ \\
+..     Ammoniak          & $-77,7$                            & $-33,4$                     & $1,65$  & $2,16$  & $1370$ \\
+..     Chlor             & $-101$                             & $-34,1$                     & $0,55$  & $0,74$  & $290$ \\
+..     Helium            & $-271$                             & $-269$                      & $3,21$  & $5,23$  & $20,6$ \\
+..     Kohlenstoffdioxid & $-56,6$ (bei $p=\unit[0,53]{MPa}$) & $-78,5$ (Sublimationspunkt) & $0,65$  & $0,84$  & $574$ \\
+..     Methan            & $-183$                             & $-162$                      & $1,70$  & $2,22$  & $510$ \\
+..     Ozon              & $-193$                             & $-113$                      & $0,57$  & $0,79$  & $316$ \\
+..     Propan            & $-190$                             & $-42,1$                     & $1,41$  & $1,59$  & $426$ \\
+..     Wasserstoff       & $-259$                             & $-252,8$                    & $10,17$ & $14,32$ & $461$ \\
+..     Xenon             & $-112$                             & $-108$                      & $0,16$  & $0,21$  & $96$ \\
 
-    \hline
-    \end{tabulary}
-    }
+..     \hline
+..     \end{tabulary}
+..     }
 
-    %\restoregeometry
+..     %\restoregeometry
 
 .. raw:: html
 
@@ -1523,7 +1530,7 @@ Periodensystem der Elemente
     \newgeometry{left=1cm, right=1cm, top=1cm, bottom=1cm}
     \thispagestyle{empty}
     \begin{landscape}
-    \centering\includegraphics[height=0.95\textheight]{../../pics/atomphysik/periodensystem-mit-elektronenkonfiguration.png}
+    \centering\includegraphics[height=0.95\textheight]{/home/grund-wissen/source/physik/pics/atomphysik/periodensystem-mit-elektronenkonfiguration.png}
     \end{landscape}
     \newgeometry{left=2cm, right=2cm, top=2.5cm, bottom=2.5cm}
 

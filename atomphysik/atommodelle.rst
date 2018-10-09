@@ -262,7 +262,7 @@ Um sein Atommodell zu retten, das auch mit anderen experimentellen Ergebnissen b
 
 Hierbei ist :math:`\Delta E = E _{\rm{n _{\rm{a}}}} - E _{\rm{n _{\rm{i}}}}` die
 Energiedifferenz zwischen der äußeren und inneren Elektronenbahn und :math:`h =
-\unit[6,6256 \cdot 10^{34}]{J \cdot s}` die Planck-Konstante. Im umgekehrten
+\unit[6,6256 \cdot 10^{-34}]{J \cdot s}` die Planck-Konstante. Im umgekehrten
 Fall lässt sich ein Elektron durch ein Photon der entsprechenden Frequenz in
 einen energiereicheren (weiter außen gelegenen) Zustand anheben.
 
@@ -318,7 +318,7 @@ Das Orbitalmodell
 Das Orbitalmodell ist das bis heute genaueste Modell zur Beschreibung der
 Elektronenbahnen um den Atomkern. Grundlage hierfür waren fundamentale
 Erkenntnisse von `Erwin Schrödinger
-<https://de.wikipedia.org/wiki/Erwin_Schrödinger>`_ und `Werner Heisenberg
+<https://de.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger>`_ und `Werner Heisenberg
 <https://de.wikipedia.org/wiki/Werner_Heisenberg>`_ in den Jahren 1926 und 1927,
 die unabhängig voneinander und mit verschiedenen mathematischen Zugängen die
 Quantenmechanik begründeten.

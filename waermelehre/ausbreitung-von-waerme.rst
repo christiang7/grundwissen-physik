@@ -4,18 +4,11 @@
 Ausbreitung von Wärme
 =====================
 
-Ein von selbst ablaufender Austausch von Wärme erfolgt stets von einem Körper
-höherer Temperatur zu einem Körper niederer Temperatur, bis beide Körper die
-gleiche Temperatur erreicht haben ("Wärmegleichgewicht"). Die vom kalten Körper
-aufgenommene Wärmemenge :math:`Q_1` ist hierbei gleich der vom warmen Körper
+Ein von selbst ablaufender Austausch von Wärme erfolgt stets von einem Objekt
+höherer Temperatur zu einem Objekt niederer Temperatur, bis beide Objekte die
+gleiche Temperatur erreicht haben ("Wärmegleichgewicht"). Die vom kalten Objekt
+aufgenommene Wärmemenge :math:`Q_1` ist hierbei gleich der vom warmen Objekt
 abgegebenen Wärmemenge :math:`Q_2`.
-
-.. Soll die Temperatur eines Körpers geändert werden, so muss dem System
-.. Wärme, d.h. Energie zugeführt werden. Die dabei benötigte oder
-.. freigesetzte Wärmemenge :math:`Q` hängt von der Masse :math:`m`, der
-.. stofflichen Zusammensetzung des Systems und der Temperaturänderung
-.. :math:`\Delta T` ab.
-
 
 Die Ausbreitung von Wärme kann auf drei Arten geschehen, die im folgenden
 Abschnitt näher beschrieben werden.

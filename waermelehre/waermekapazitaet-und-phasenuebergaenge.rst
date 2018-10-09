@@ -12,6 +12,8 @@ Aggregatzustand des Gegenstands während der Wärmezufuhr nicht ändert, also ke
 :ref:`Phasenübergang <Phasenübergänge>` (Schmelzen, Verdunsten, Sublimieren)
 stattfindet.
 
+
+.. _Wärmemenge:
 .. _Wärmekapazität:
 .. _Wärmemenge und Wärmekapazität:
 
@@ -181,8 +183,8 @@ bei Gasen, so dass hierbei häufig nur ein :math:`c`-Wert angegeben wird.
 Mischungsvorgänge
 -----------------
 
-Bei Mischungsvorgängen in einer isolierten Umgebung wird vom wärmeren Körper
-genauso viel Wärme abgegeben, wie vom kälteren Körper aufgenommen wird. Dies
+Bei Mischungsvorgängen in einer isolierten Umgebung wird vom wärmeren Objekt
+genauso viel Wärme abgegeben, wie vom kälteren Objekt aufgenommen wird. Dies
 gilt für Festkörper, Flüssigkeiten und Gase gleichermaßen. Dieser Sonderfall des
 Energieerhaltungssatzes wird auch `Richmannsche Mischungsregel
 <https://de.wikipedia.org/wiki/Richmann>`__  bezeichnet:
@@ -201,6 +203,7 @@ wurden in der obigen Gleichung die Wärmemengen dann mittels der Formel
 :eq:`eqn-spezifische-waermekapazitaet` für die spezifische Wärmekapazität
 ausgedrückt. Die linke Seite der Gleichung kann etwas umgestellt werden, indem
 das Minus-Zeichen in die Klammer übernommen wird:
+
 
 .. math::
 
@@ -229,9 +232,9 @@ werden; für die Mischtemperatur ergibt sich damit folgende Formel:
     T_{\mathrm{M}} = \frac{m_1 \cdot c_1 \cdot T_1 + m_2 \cdot c_2 \cdot
     T_2}{m_1 \cdot c_1 + m_2 \cdot c_2}
 
-Haben die Wärme austauschenden Körper eine gleiche Wärmekapazität, so kann diese
-im Zähler sowie im Nenner ausgeklammert und gekürzt werden. Damit vereinfacht
-sich die Formel folgendermaßen:
+Haben die Wärme austauschenden Objekte eine gleiche Wärmekapazität, so kann
+diese im Zähler sowie im Nenner ausgeklammert und gekürzt werden. Damit
+vereinfacht sich die Formel folgendermaßen:
 
 .. math::
 
@@ -299,8 +302,8 @@ als Phasenübergange bezeichnet.
 Schmelzen und Erstarren
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Wird ein fester Körper erwärmt, so schwingen seine Teilchen immer stärker um
-ihre Ruhelage. Zu einem bestimmten Zeitpunkt reichen die im Körper wirkenden
+Wird ein Festkörper erwärmt, so schwingen seine Teilchen immer stärker um ihre
+Ruhelage. Zu einem bestimmten Zeitpunkt reichen die im Objekt wirkenden
 Kohäsionskräfte nicht mehr aus, um die Teilchen an ihre Plätze zu binden -- der
 Festkörper schmilzt.
 
@@ -323,8 +326,9 @@ Grundsätzlich gilt für beliebige Schmelz- und Erstarrungsvorgänge:
 
     Siehe Tabelle... Schmelzenergie Eis 335 J / g.
 
-Die meisten Körper dehnen sich beim Schmelzen aus und ziehen sich beim Erstarren
-zusammen (Ausnahme: :ref:`Die Anomalie des Wassers <Anomalie des Wassers>`).
+Die meisten Materialien dehnen sich beim Schmelzen aus und ziehen sich beim
+Erstarren zusammen (Ausnahme: :ref:`Die Anomalie des Wassers <Anomalie des
+Wassers>`).
 
 .. list-table:: Schmelztemperaturen verschiedener Stoffe bei Normaldruck :math:`\unit[(1013)]{hPa}`
     :name: tab-schmelztemperaturen
@@ -427,8 +431,8 @@ werden.
 Wird Dampf Wärme entzogen, so geht er bei einer bestimmten Temperatur wieder in
 den flüssigen Aggregatzustand über. Dieser Vorgang heißt Kondensieren.
 
-* Während des Siedens ändert sich die Temperatur des Körpers trotz
-  Wärmezufuhr nicht.
+* Während des Siedens ändert sich die Temperatur des Materials trotz Wärmezufuhr
+  nicht.
 
 * Die Siedetemperatur und Kondensationstemperatur eines Stoffes sind identisch.
 
@@ -792,7 +796,7 @@ Schmelzen.
 
     .. rubric:: Anmerkungen:
 
-.. [#] Gibt ein Körper im umgekehrten Fall Wärme ab, so verringert sich unter
+.. [#] Gibt ein Objekt im umgekehrten Fall Wärme ab, so verringert sich unter
     den gleichen Bedingungen (konstantes Volumen, gleicher Aggregatszustand)
     seine Temperatur.
 
@@ -800,7 +804,8 @@ Schmelzen.
     Atomlagen etwas dünner, unten dafür um wenige Atomlagen dicker. Dass viele
     antike Fenster im unteren Teil deutlich dicker sind als im oberen, hängt
     hingegen mit dem damaligen `Herstellungsprozess
-    <http://pauli.uni-muenster.de/~munsteg/physik-irrtuemer.html>`_ zusammen.
+    <https://www.uni-muenster.de/Physik.TP/~munsteg/physik-irrtuemer.html>`_
+    zusammen.
 
 .. [#] Eine ausführlichere Erklärung hierfür liefert die in einem späteren
     Abschnitt näher beschriebene :ref:`kinetische Gastheorie <Kinetische

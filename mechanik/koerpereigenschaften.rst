@@ -57,7 +57,6 @@ zwischen schwerer und träger Masse unterschieden werden.
 
 .. index:: Volumen
 .. _Volumen:
-.. _Volumen:
 
 Volumen
 -------

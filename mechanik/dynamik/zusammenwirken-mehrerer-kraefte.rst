@@ -199,8 +199,26 @@ Teilkräfte:
 
 .. math::
 
-    F_1 = F \cdot \frac{\sin{(\alpha)}}{\sin{(\alpha + \beta)}} \\[6pt]
-    F_2 = F \cdot \frac{\sin{(\beta)}}{\sin{(\alpha + \beta)}} \\[6pt]
+    F_1 = F \cdot \frac{\sin{(\beta)}}{\sin{(\alpha + \beta)}} \\[6pt]
+    F_2 = F \cdot \frac{\sin{(\alpha)}}{\sin{(\alpha + \beta)}} \\[6pt]
+
+Dies ergibt sich aus dem :ref:`Sinus-Satz <gwm:Sinus-Satz>`: Betrachtet man das
+Teildreieck unten rechts mit dem Hilfswinkel :math:`\gamma`, so gilt für dieses
+Dreieck:
+
+.. math::
+
+    \frac{F}{\sin{\left(\gamma\right)}} = \frac{F_2}{\sin{\left(\alpha\right)}}
+
+Diese Gleichung kann nach :math:`F_2` umgestellt werden:
+
+.. math::
+
+    F_2 = F \cdot \frac{\sin{\left(\alpha\right)}}{\sin{\left(\gamma\right)}}
+
+Zudem gilt :math:`\gamma = 180 \degree - (\alpha + \beta)`. Aufgrund der
+Symmetrie der Sinus-Funktion gilt zudem :math:`\sin{\left(180 \degree -
+x\right)} = \sin{\left(x\right)}`. Damit ergibt sich die obige Gleichung.
 
 Betragsmäßig ist die Summe :math:`F_1 + F_2` der Teilkraftbeträge, sofern die
 Winkel :math:`\alpha` bzw. :math:`\beta` nicht gleich Null sind, stets größer

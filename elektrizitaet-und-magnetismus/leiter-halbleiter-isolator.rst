@@ -208,7 +208,7 @@ einfach positiv geladene Ladungsträger angesehen werden.
     :alt:  fig-halbleiter-silicium-p-dotierung
 
     p-Dotierung eines Silicium-Kristalls durch Einbringen von
-    Phosphor-Atomen.
+    Brom-Atomen.
 
     .. only:: html
 

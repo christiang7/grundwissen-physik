@@ -1,5 +1,7 @@
 
 .. index:: Temperatur, Wärme
+.. _Wärme:
+.. _Temperatur:
 .. _Temperatur und Wärme:
 
 Temperatur und Wärme

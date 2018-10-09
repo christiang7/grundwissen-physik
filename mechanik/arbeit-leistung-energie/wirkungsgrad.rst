@@ -1,15 +1,16 @@
 .. index:: Wirkungsgrad
 .. _Wirkungsgrad:
 
-Der Wirkungsgrad
-================
+Wirkungsgrad
+============
 
-Kann die Reibungskraft sehr klein gehalten werden, so ist es möglich, sie bei
-der Formulierung von physikalischen Gesetzen unberücksichtigt zu lassen. Bei
-genauer Betrachtung zeigt sich allerdings, dass die von einer mechanischen
-Einrichtung aufgenommene Arbeit stets größer ist als die von ihr abgegebene
-Arbeit. Der Satz von der Erhaltung der mechanischen Arbeit scheint dabei nicht
-mehr erfüllt zu sein: Arbeit scheint "verloren gegangen" zu sein.
+Sofern bei einem mechanischen Prozess die stets auftretende Reibung sehr klein
+gehalten werden kann, so ist es möglich, sie bei der Formulierung von
+physikalischen Gesetzen unberücksichtigt zu lassen. Bei genauer Betrachtung
+zeigt sich allerdings, dass die von einer mechanischen Einrichtung aufgenommene
+Arbeit stets größer ist als die von ihr abgegebene Arbeit. Es scheint also
+Arbeit verloren gegangen zu sein, der Satz von der Erhaltung der mechanischen
+Arbeit scheint somit seine Geltung zu verlieren.
 
 .. figure::
     ../../pics/mechanik/arbeit-energie-leistung/wirkungsgrad-energiefluss-diagramm.png
@@ -27,10 +28,10 @@ mehr erfüllt zu sein: Arbeit scheint "verloren gegangen" zu sein.
 
 .. _Effizienz:
 
-Tatsächlich verschwindet die verrichtete Arbeit niemals, sondern es wird stets
-eine entsprechend große Menge an Reibungsarbeit verrichtet. Das Gesetz von der
-Erhaltung der mechanischen Arbeit kann -- unter Berücksichtigung der Reibung --
-somit folgendermaßen formuliert werden:
+Tatsächlich verschwindet die verrichtete Arbeit allerdings nicht, sondern es
+wird stets eine entsprechend große Menge an Reibungsarbeit verrichtet. Das
+Gesetz von der Erhaltung der mechanischen Arbeit kann -- unter Berücksichtigung
+der Reibung -- somit folgendermaßen formuliert werden: [#]_
 
 .. math::
 
@@ -73,6 +74,16 @@ Gesamt-Wirkungsgrad :math:`\eta_{\mathrm{Ges}}` der Anlage:
 Der Gesamt-Wirkungsgrad einer mechanischen Einrichtung ist wegen :math:`\eta \le
 1` somit kleiner als der Wirkungsgrad der am wenigsten effizienten Komponente.
 
+.. raw:: html
+
+    <hr />
+
+.. only:: html
+
+    .. rubric:: Anmerkungen:
+
+.. [#] Eine noch allgemeinere Formulierung dieser Aussage stellen die so
+    genannten :ref:`Hauptsätze der Wärmelehre <Hauptsätze der Wärmelehre>` dar.
 
 .. raw:: html
 

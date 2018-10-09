@@ -9,6 +9,7 @@ Kinematik
 
 Bewegungen mit konstanter Geschwindigkeit
 -----------------------------------------
+.. {{{
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Bewegungen mit
 konstanter Geschwindigkeit <Bewegungen mit konstanter Geschwindigkeit>`.
@@ -16,6 +17,7 @@ konstanter Geschwindigkeit <Bewegungen mit konstanter Geschwindigkeit>`.
 .. _Aufgaben Eindimensionale Bewegungen mit konstanter Geschwindigkeit:
 
 .. rubric:: Eindimensionale Bewegungen mit konstanter Geschwindigkeit
+.. {{{
 
 ----
 
@@ -108,11 +110,12 @@ konstanter Geschwindigkeit <Bewegungen mit konstanter Geschwindigkeit>`.
 
 ----
 
-
 .. _Aufgaben Mehrdimensionale Bewegungen mit konstanter Geschwindigkeit:
 
-Mehrdimensionale Bewegungen mit konstanter Geschwindigkeit
-----------------------------------------------------------
+.. }}}
+
+.. rubric:: Mehrdimensionale Bewegungen mit konstanter Geschwindigkeit
+.. {{{
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Mehrdimensionale
 Bewegungen mit konstanter Geschwindigkeit <Mehrdimensionale Bewegungen mit
@@ -143,11 +146,16 @@ konstanter Geschwindigkeit>`.
 ----
 
 
-
 .. _Aufgaben Bewegungen mit konstanter Beschleunigung:
+
+.. }}}
+
+.. }}}
 
 Bewegungen mit konstanter Beschleunigung
 ----------------------------------------
+
+.. {{{
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Bewegungen mit
 konstanter Beschleunigung <Bewegungen mit konstanter Beschleunigung>`.
@@ -253,11 +261,16 @@ konstanter Beschleunigung <Bewegungen mit konstanter Beschleunigung>`.
 
 ----
 
+.. _kinb08:
 
 .. _Aufgaben Kreisförmige Bewegungen:
 
+.. }}}
+
 Kreisförmige Bewegungen
 -----------------------
+
+.. {{{
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Kreisförmige
 Bewegungen <Kreisförmige Bewegungen>`.
@@ -319,7 +332,7 @@ Bewegungen <Kreisförmige Bewegungen>`.
 
 ----
 
-.. foo
+.. }}}
 
 .. only:: html
 
