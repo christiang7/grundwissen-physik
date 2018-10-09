@@ -16,8 +16,8 @@ Physik
 
     .. sidebar:: Hinweis
 
-        Dieses Projekt kann als Quellcode von `GitHub
-        <https://www.github.com/grund-wissen/grundwissen-physik>`_
+        Dieses Projekt kann als Quellcode von `GitLab
+        <https://www.gitlab.com/grund-wissen/grundwissen-physik>`_
         heruntergeladen werden.
 
         Offline-Versionen:
